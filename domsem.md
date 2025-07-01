@@ -52,42 +52,42 @@ This process treats the LLM not as an authority, but as a powerful catechetical 
 
 ## Table of Contents
 
-**Prologue**
-- Introduction: Why This Book Exists
-- Parents as First Catechists: Your Irreplaceable Role
-- Catechesis as Vocation, Not Just Content
-- How to Use This Book
-- A Note on Tradition, the Catechism, and Cultural Adaptation
+**[Prologue](#prologue)**
+- [Introduction: Why This Book Exists](#introduction-why-this-book-exists)
+- [Parents as First Catechists: Your Irreplaceable Role](#parents-as-first-catechists-your-irreplaceable-role)
+- [Catechesis as Vocation, Not Just Content](#catechesis-as-vocation-not-just-content)
+- [How to Use This Book](#how-to-use-this-book)
+- [A Note on Tradition, the Catechism, and Cultural Adaptation](#a-note-on-tradition-the-catechism-and-cultural-adaptation)
 
-**Part I — Pre-School Formation (Birth to Age 5)**
-- Chapter 1: The World is Holy - Beginning Life in God
-- Chapter 2: Domestic Liturgy - Creating a Home Filled with Holy Signs
-- Chapter 3: First Prayers and Sacred Touch
-- Chapter 4: Preparing for School in a Secular World
+**[Part I — Pre-School Formation (Birth to Age 5)](#part-i--pre-school-formation-birth-to-age-5)**
+- [Chapter 1: The World is Holy - Beginning Life in God](#chapter-1-the-world-is-holy---beginning-life-in-god)
+- [Chapter 2: Domestic Liturgy - Creating a Home Filled with Holy Signs](#chapter-2-domestic-liturgy---creating-a-home-filled-with-holy-signs)
+- [Chapter 3: First Prayers and Sacred Touch](#chapter-3-first-prayers-and-sacred-touch)
+- [Chapter 4: Preparing for School in a Secular World](#chapter-4-preparing-for-school-in-a-secular-world)
 
-**Part II — Primary Years (Years 1-6): Building the Grammar of Catholic Life**
-- Year 1: Who Made Me, and Why?
-- Year 2: Who is Jesus?
-- Year 3: What Are Sacraments?
-- Year 4: Why Do We Believe?
-- Year 5: What is the Church?
-- Year 6: What Is the Mass?
+**[Part II — Primary Years (Years 1-6): Building the Grammar of Catholic Life](#part-ii--primary-years-years-1-6-building-the-grammar-of-catholic-life)**
+- [Year 1: Who Made Me, and Why?](#year-1-who-made-me-and-why)
+- [Year 2: Who is Jesus?](#year-2-who-is-jesus)
+- [Year 3: What Are Sacraments?](#year-3-what-are-sacraments)
+- [Year 4: Why Do We Believe?](#year-4-why-do-we-believe)
+- [Year 5: What is the Church?](#year-5-what-is-the-church)
+- [Year 6: What Is the Mass?](#year-6-what-is-the-mass)
 
-**Part III — Secondary Years (Years 7-12): Maturity in Christ**
-- Year 7: How Do I Live a Good Life?
-- Year 8: Who Am I, Really?
-- Year 9: Is Faith Rational?
-- Year 10: Can Truth Be Known?
-- Year 11: What Is Justice?
-- Year 12: What Is My Mission?
+**[Part III — Secondary Years (Years 7-12): Maturity in Christ](#part-iii--secondary-years-years-7-12-maturity-in-christ)**
+- [Year 7: How Do I Live a Good Life?](#year-7-how-do-i-live-a-good-life)
+- [Year 8: Who Am I, Really?](#year-8-who-am-i-really)
+- [Year 9: Is Faith Rational?](#year-9-is-faith-rational)
+- [Year 10: Can Truth Be Known?](#year-10-can-truth-be-known)
+- [Year 11: What Is Justice?](#year-11-what-is-justice)
+- [Year 12: What Is My Mission?](#year-12-what-is-my-mission)
 
-**Part IV — Post-Year 12: Adulthood in the Faith**
-- Chapter 17: When They Leave Home - Trust, Pray, Accompany
-- Chapter 18: Supporting Vocations - Religious Life, Marriage, and Mission
-- Chapter 19: The Faith Grows With You - Living Catholic Adulthood
-- Chapter 20: A Catechism for Your Grandchildren
+**[Part IV — Post-Year 12: Adulthood in the Faith](#part-iv--post-year-12-adulthood-in-the-faith)**
+- [Chapter 17: When They Leave Home - Trust, Pray, Accompany](#chapter-17-when-they-leave-home---trust-pray-accompany)
+- [Chapter 18: Supporting Vocations - Religious Life, Marriage, and Mission](#chapter-18-supporting-vocations---religious-life-marriage-and-mission)
+- [Chapter 19: The Faith Grows With You - Living Catholic Adulthood](#chapter-19-the-faith-grows-with-you---living-catholic-adulthood)
+- [Chapter 20: A Catechism for Your Grandchildren](#chapter-20-a-catechism-for-your-grandchildren)
 
-**Appendices**
+**[Appendices](#appendices)**
 - A. Index of CCC Paragraphs by Chapter
 - B. Common Prayers with Traditional and Contemporary Forms
 - C. Suggested Reading Lists by Age and Theme
