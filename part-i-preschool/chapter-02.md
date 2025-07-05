@@ -9,9 +9,9 @@ parent: "Part I — Pre-School Formation"
 
 ### The Home as First Church
 
-Before your child ever enters a parish church, they encounter the domestic church—your home. The Second Vatican Council recovered this ancient understanding: the family is the "ecclesia domestica," the domestic church[1](#ref-1). This is not mere metaphor but theological reality. In your home, the fundamental actions of the Church occur: prayer, sacrifice, forgiveness, celebration, and the transmission of faith.
+Before your child ever enters a parish church, they encounter the domestic church—your home. The Second Vatican Council recovered this ancient understanding: the family is the "ecclesia domestica," the domestic church[¹](#ref-1). This is not mere metaphor but theological reality. In your home, the fundamental actions of the Church occur: prayer, sacrifice, forgiveness, celebration, and the transmission of faith.
 
-> "Every home is called to become a 'domestic church' in which family life is completely centered on the lordship of Jesus and the love of husband and wife mirrors the mystery of Christ and the Church." — St. John Paul II[2](#ref-2)
+> "Every home is called to become a 'domestic church' in which family life is completely centered on the lordship of Jesus and the love of husband and wife mirrors the mystery of Christ and the Church." — St. John Paul II[²](#ref-2)
 
 But what does this look like practically in a modern home with its televisions, smartphones, busy schedules, and secular pressures?
 
@@ -25,7 +25,7 @@ But what does this look like practically in a modern home with its televisions, 
 
 **Objection 3**: Moreover, calling home activities "liturgical" seems to diminish the uniqueness of the Mass and sacraments.
 
-**On the contrary**, St. Paul instructs, "Whether you eat or drink, or whatever you do, do all to the glory of God"[3](#ref-3). Additionally, the early Church met in homes, where domestic and liturgical life intertwined[4](#ref-4).
+**On the contrary**, St. Paul instructs, "Whether you eat or drink, or whatever you do, do all to the glory of God"[³](#ref-3). Additionally, the early Church met in homes, where domestic and liturgical life intertwined[⁴](#ref-4).
 
 **I answer that** we must distinguish between the liturgy properly speaking (the Church's official public worship) and liturgical living (ordering all of life toward divine worship). The home cannot replace the Mass, but it can and should extend the Mass into daily life.
 
@@ -39,7 +39,7 @@ This domestic liturgy is not in competition with but in communion with the Churc
 
 **Reply to Objection 1**: The family's prayer is truly public in the theological sense—it is the prayer of the baptized, who are incorporated into Christ's Body. When a family prays together, the Church prays.
 
-**Reply to Objection 2**: Parents possess a true spiritual authority over their children, given in natural law and confirmed in baptism. While they cannot consecrate the Eucharist, they can and should bless their children[5](#ref-5).
+**Reply to Objection 2**: Parents possess a true spiritual authority over their children, given in natural law and confirmed in baptism. While they cannot consecrate the Eucharist, they can and should bless their children[⁵](#ref-5).
 
 **Reply to Objection 3**: Recognizing domestic liturgy actually enhances appreciation for the Mass by creating a lived connection between Sunday worship and daily life. The home becomes not a rival altar but an extension of the parish altar.
 
@@ -275,7 +275,7 @@ For families with both parents working, multiple children in activities, and gen
 - Sunday: Five minutes reviewing Gospel
 - Season: One visible sign of liturgical time
 
-**Remember**: A hurried sign of the cross made with love is worth more than an hour of distracted prayer. God honors the widow's mite of time[6](#ref-6).
+**Remember**: A hurried sign of the cross made with love is worth more than an hour of distracted prayer. God honors the widow's mite of time[⁶](#ref-6).
 
 #### Mixed-Faith and Single-Parent Homes
 

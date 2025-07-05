@@ -33,7 +33,7 @@ parent: "Part III — Secondary Years"
 
 **Objection 3**: Moreover, different cultures have different rules, suggesting morality is just social convention, not a path to happiness.
 
-**On the contrary**, Jesus begins His most famous sermon with the Beatitudes—a blueprint for happiness[1](#ref-1)—which are moral teachings. Also, Augustine discovered: "You have made us for yourself, O Lord, and our hearts are restless until they rest in you"[2](#ref-2).
+**On the contrary**, Jesus begins His most famous sermon with the Beatitudes—a blueprint for happiness[¹](#ref-1)—which are moral teachings. Also, Augustine discovered: "You have made us for yourself, O Lord, and our hearts are restless until they rest in you"[²](#ref-2).
 
 **I answer that** God designed us like He designed everything else—with a purpose and nature. Just as a plant is "happy" (flourishing) when it has sun, water, and good soil, humans flourish when living according to our design.
 
@@ -54,7 +54,7 @@ Yet Jesus is showing that true happiness comes from:
 
 **Reply to Objection 2**: Worldly success isn't true happiness. Many celebrities are miserable despite having everything. True joy comes from inner peace.
 
-**Reply to Objection 3**: While customs vary, basic morality is universal—all cultures value truth, courage, justice, and love. These point to natural law written on our hearts[3](#ref-3).
+**Reply to Objection 3**: While customs vary, basic morality is universal—all cultures value truth, courage, justice, and love. These point to natural law written on our hearts[³](#ref-3).
 
 #### Virtues: Building Spiritual Muscles
 
@@ -223,7 +223,7 @@ All major traditions value virtues:
 - "What helps you choose right over wrong?"
 - Find common ground while noting distinctions
 
-> Natural law means all humans recognize basic good/evil, even if expressions differ[4](#ref-4)
+> Natural law means all humans recognize basic good/evil, even if expressions differ[⁴](#ref-4)
 
 #### 👣 Saint of the Week: St. Maria Goretti
 
@@ -254,7 +254,7 @@ Your adolescent is developing:
 
 #### 🧠 Theology Behind the Simplicity
 
-**Natural Law Theory**[5](#ref-5)
+**Natural Law Theory**[⁵](#ref-5)
 Written on human hearts:
 - **Preservation of life**: Why suicide/murder feel wrong
 - **Procreation/education**: Why family matters
@@ -271,14 +271,14 @@ These incline us toward virtue naturally.
 
 Catholic morality integrates all three with virtue primary.
 
-**Habitus (Habits)**[6](#ref-6)
+**Habitus (Habits)**[⁶](#ref-6)
 - Virtues/vices are habits, not isolated acts
 - Formed through repetition
 - Become "second nature"
 - Create ease in good/evil
 - Can be changed with grace and effort
 
-**Conscience Formation**[7](#ref-7)
+**Conscience Formation**[⁷](#ref-7)
 Conscience must be:
 1. **Informed** by truth (not just feelings)
 2. **Formed** through practice
@@ -298,7 +298,7 @@ Conscience must be:
 "Which ones specifically? Let's examine them. Some Church disciplines (like fasting rules) do change with time and culture. But moral principles (like the Ten Commandments) are based on human nature, which doesn't change. Gravity is an 'old' law—should we ignore it because it's ancient? The Church's moral teachings have produced saints in every century, in every culture. They've been tested by millions and found reliable. What seems 'outdated' might actually be countercultural wisdom. But I'm open—which teaching troubles you and why?"
 
 **"I keep failing at the same sin"**
-"Welcome to the human condition! Even St. Paul said, 'I do not do the good I want, but the evil I do not want'[8](#ref-8). Here's the key: God's mercy is bigger than your weakness. Every saint had habitual sins they battled. What matters is you keep fighting. Think of it like learning a sport—you fail repeatedly before succeeding. Three helps: 1) Identify what triggers this sin and avoid those situations, 2) Replace the vice with its opposite virtue actively, 3) Use sacraments frequently—Confession gives grace, not just forgiveness. Progress, not perfection, is the goal."
+"Welcome to the human condition! Even St. Paul said, 'I do not do the good I want, but the evil I do not want'[⁸](#ref-8). Here's the key: God's mercy is bigger than your weakness. Every saint had habitual sins they battled. What matters is you keep fighting. Think of it like learning a sport—you fail repeatedly before succeeding. Three helps: 1) Identify what triggers this sin and avoid those situations, 2) Replace the vice with its opposite virtue actively, 3) Use sacraments frequently—Confession gives grace, not just forgiveness. Progress, not perfection, is the goal."
 
 #### 🛑 What Not To Say
 

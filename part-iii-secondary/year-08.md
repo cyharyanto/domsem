@@ -33,7 +33,7 @@ parent: "Part III — Secondary Years"
 
 **Objection 3**: Moreover, traditional identities often oppress people, so we must be free to create ourselves anew.
 
-**On the contrary**, God declares: "Before I formed you in the womb I knew you, before you were born I set you apart"[1](#ref-1), indicating our identity precedes our consciousness or choices.
+**On the contrary**, God declares: "Before I formed you in the womb I knew you, before you were born I set you apart"[¹](#ref-1), indicating our identity precedes our consciousness or choices.
 
 **I answer that** human identity is neither purely given nor purely constructed, but discovered through relationship with God who creates us with purpose. We're like seeds—our nature is given (oak vs. rose), but how we grow involves freedom, environment, and grace.
 
@@ -78,7 +78,7 @@ True identity emerges through accepting what's given, choosing wisely, and disco
 
 **Objection 3**: Moreover, the body often leads to sin through desires and weaknesses, so it must be inferior to the pure soul.
 
-**On the contrary**, Scripture proclaims: "Your body is a temple of the Holy Spirit"[2](#ref-2) and promises bodily resurrection[3](#ref-3), indicating the body's essential dignity.
+**On the contrary**, Scripture proclaims: "Your body is a temple of the Holy Spirit"[²](#ref-2) and promises bodily resurrection[³](#ref-3), indicating the body's essential dignity.
 
 **I answer that** the human person is a body-soul composite, not a soul using a body. We ARE our bodies as much as we ARE our souls—they're distinct but inseparable in life. This is crucial for understanding everything from sexuality to suffering.
 
@@ -86,7 +86,7 @@ Key principles:
 
 1. **The body reveals the person**: Your smile, tears, embrace—these aren't just biological functions but personal communications. The body makes the invisible soul visible.
 
-2. **The body has spousal meaning**: Made for communion, not isolation. Our bodily complementarity (male/female) images the Trinity's communion and Christ's union with the Church[4](#ref-4).
+2. **The body has spousal meaning**: Made for communion, not isolation. Our bodily complementarity (male/female) images the Trinity's communion and Christ's union with the Church[⁴](#ref-4).
 
 3. **The body shares in redemption**: Christ took a body, died bodily, rose bodily. We receive Him bodily in Eucharist. Our bodies will rise glorified.
 
@@ -98,7 +98,7 @@ This is why the Church cares about:
 - Bioethics (body's integrity)
 - Liturgy (bodily worship)
 
-**Reply to Objection 1**: The soul survives death but remains incomplete without the body, which is why we believe in the resurrection of the body. The soul longs for its body; they are meant for each other. At the final resurrection, our glorified souls will be reunited with our glorified bodies[5](#ref-5).
+**Reply to Objection 1**: The soul survives death but remains incomplete without the body, which is why we believe in the resurrection of the body. The soul longs for its body; they are meant for each other. At the final resurrection, our glorified souls will be reunited with our glorified bodies[⁵](#ref-5).
 
 **Reply to Objection 2**: Spiritual activities are not separate from but expressed *through* the body. We kneel to adore, stand to proclaim, fast to discipline, sing to praise. The body is the instrument of the soul's worship, not its prison.
 
@@ -114,7 +114,7 @@ This is why the Church cares about:
 
 **Objection 3**: Moreover, if I must follow God's will, I am not free but merely a servant or a puppet.
 
-**On the contrary**, Jesus said, "You will know the truth, and the truth will set you free"[6](#ref-6), and St. Paul writes that we are called to freedom, but not as an opportunity for the flesh, but to serve one another through love[7](#ref-7).
+**On the contrary**, Jesus said, "You will know the truth, and the truth will set you free"[⁶](#ref-6), and St. Paul writes that we are called to freedom, but not as an opportunity for the flesh, but to serve one another through love[⁷](#ref-7).
 
 **I answer that** we must distinguish between two kinds of freedom:
 
@@ -123,7 +123,7 @@ This is why the Church cares about:
 
 Think of a concert pianist. Is she "free" to bang on any key she wants? Yes, but that's a trivial freedom. Her true freedom, acquired through thousands of hours of practice (following the "rules" of music), is the power to play a magnificent concerto that brings beauty to the world. She is free *to do something excellent*.
 
-God's laws are not arbitrary constraints but the "rules of music" for the human soul. They teach us how to play the "concerto" of a good and happy life. True freedom is not the absence of limits but the alignment of our will with the good, the true, and the beautiful, which ultimately means alignment with God's will[8](#ref-8).
+God's laws are not arbitrary constraints but the "rules of music" for the human soul. They teach us how to play the "concerto" of a good and happy life. True freedom is not the absence of limits but the alignment of our will with the good, the true, and the beautiful, which ultimately means alignment with God's will[⁸](#ref-8).
 
 **Reply to Objection 1**: Rules against poison don't limit your freedom to eat; they protect your ability to live and eat well. Similarly, God's moral law protects our ability to love and flourish.
 

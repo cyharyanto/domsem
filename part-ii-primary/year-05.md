@@ -29,22 +29,22 @@ parent: "Part II — Primary Years"
 
 **Objection 1**: It seems Jesus just taught about loving God and neighbor. Churches with all their rules and structures came later from humans.
 
-**Objection 2**: Furthermore, Jesus said "Where two or three gather in my name, there I am"[1](#ref-1). This suggests any gathering of believers is enough.
+**Objection 2**: Furthermore, Jesus said "Where two or three gather in my name, there I am"[¹](#ref-1). This suggests any gathering of believers is enough.
 
 **Objection 3**: Moreover, having an organized Church seems to complicate the simple message of the Gospel.
 
-**On the contrary**, Jesus said to Peter: "You are Peter, and on this rock I will build my Church"[2](#ref-2), clearly indicating His intention to establish a structured community.
+**On the contrary**, Jesus said to Peter: "You are Peter, and on this rock I will build my Church"[²](#ref-2), clearly indicating His intention to establish a structured community.
 
 **I answer that** Jesus deliberately founded a visible, organized Church for several reasons:
 
 Think of it like this: If you discovered the cure for cancer, would you just tell a few friends and hope the word spread accurately? No! You'd establish hospitals, train doctors, write down the formula, and create systems to ensure everyone gets the cure correctly. That's what Jesus did with the "cure" for sin and death!
 
-Jesus established the Church by[3](#ref-3):
+Jesus established the Church by[³](#ref-3):
 1. **Choosing 12 apostles** (like founding a board of directors)
 2. **Giving them authority** to teach, sanctify, and govern
-3. **Making Peter the leader** ("Feed my sheep"[4](#ref-4))
+3. **Making Peter the leader** ("Feed my sheep"[⁴](#ref-4))
 4. **Sending the Holy Spirit** to guide them always
-5. **Commanding them** to baptize and teach all nations[5](#ref-5)
+5. **Commanding them** to baptize and teach all nations[⁵](#ref-5)
 
 The Church is visible because:
 - Truth needs to be preserved accurately
@@ -63,11 +63,11 @@ The Church is visible because:
 
 **Question**: How can we identify the true Church among many claiming to be Christian?
 
-**I answer that** Christ gave His Church four distinctive marks, like a signature that can't be forged[6](#ref-6):
+**I answer that** Christ gave His Church four distinctive marks, like a signature that can't be forged[⁶](#ref-6):
 
 **1. ONE (Unity)**
 The Church is one because:
-- One Lord, one faith, one baptism[7](#ref-7)
+- One Lord, one faith, one baptism[⁷](#ref-7)
 - One visible head (the Pope)
 - One set of essential beliefs (not opinions on everything, but core truths)
 - One sacrifice (the Mass offered worldwide)
@@ -103,7 +103,7 @@ The Church is apostolic because:
 
 #### The Church as Body of Christ
 
-St. Paul's amazing insight: The Church is Christ's actual Body[8](#ref-8)!
+St. Paul's amazing insight: The Church is Christ's actual Body[⁸](#ref-8)!
 
 **How This Works**:
 - Christ is the Head—He directs everything
@@ -245,7 +245,7 @@ Why are there different Christian churches?
 - "We believe Jesus wants us all united"
 - "Let's pray for Christian unity"
 
-> Remember: Other Christians are our separated brothers and sisters, not enemies[9](#ref-9)
+> Remember: Other Christians are our separated brothers and sisters, not enemies[⁹](#ref-9)
 
 #### 👣 Saint of the Week: St. Catherine of Siena
 
@@ -257,7 +257,7 @@ Catherine lived when the Church was in crisis—the Pope had left Rome for Franc
 - Brought peace between warring cities
 - Wrote profound theology (though barely educated)
 
-Her secret? She loved the Church as Christ's Body, even when members failed. She said: "Be who God meant you to be and you will set the world on fire!"[10](#ref-10)
+Her secret? She loved the Church as Christ's Body, even when members failed. She said: "Be who God meant you to be and you will set the world on fire!"[¹⁰](#ref-10)
 
 **This Week's Challenge**: Like Catherine, love the Church enough to help make it better. How can you serve your parish this week?
 
@@ -274,7 +274,7 @@ Your child is developing:
 
 #### 🧠 Theology Behind the Simplicity
 
-**Models of Church** (Avery Dulles)[11](#ref-11):
+**Models of Church** (Avery Dulles)[¹¹](#ref-11):
 1. **Institution**: Visible structure with hierarchy
 2. **Mystical Communion**: Spiritual fellowship
 3. **Sacrament**: Sign and instrument of grace
@@ -285,14 +285,14 @@ Your child is developing:
 All models are true and needed!
 
 **Subsistit In**
-The Church of Christ "subsists in" the Catholic Church[12](#ref-12):
+The Church of Christ "subsists in" the Catholic Church[¹²](#ref-12):
 - Fullness of truth and means of salvation
 - But elements of sanctification exist outside too
 - Other Christians have real, if imperfect, communion
 - We work toward full visible unity
 
 **Communion of Saints**
-Three states of the Church[13](#ref-13):
+Three states of the Church[¹³](#ref-13):
 1. **Church Militant**: Us on earth, fighting sin
 2. **Church Suffering**: Souls in purgatory
 3. **Church Triumphant**: Saints in heaven
@@ -300,7 +300,7 @@ Three states of the Church[13](#ref-13):
 All united in Christ, helping each other!
 
 **Infallibility vs. Impeccability**
-- **Infallibility**: Can't teach error on faith/morals (when conditions met)[14](#ref-14)
+- **Infallibility**: Can't teach error on faith/morals (when conditions met)[¹⁴](#ref-14)
 - **Impeccability**: Can't sin (only Christ and Mary)
 - Popes can sin but can't teach error officially
 - Important distinction for handling scandals
@@ -317,7 +317,7 @@ All united in Christ, helping each other!
 "Some Protestants have believed that since the Reformation, but let's think: Would the antichrist promote prayer, defend the poor, call people to follow Jesus, and protect God's Word? Look at what recent popes have actually done—John Paul II helped end communism peacefully, Francis kisses the feet of prisoners, Benedict wrote beautifully about Jesus. These aren't actions of an antichrist but of shepherds trying to follow Christ. We can disagree with some papal decisions while still recognizing the office Christ established."
 
 **"Why do we need confession to a priest when Protestants confess directly to God?"**
-"We also confess directly to God! But Jesus gave the apostles specific power to forgive sins[15](#ref-15), which priests continue. It's like being sick—you can ask God for healing AND go to a doctor. Protestant confession is good but incomplete. The Catholic way gives us: 1) Certainty of forgiveness (we hear the words), 2) Advice for improvement, 3) Accountability, 4) Grace through the sacrament. God could have chosen direct-only forgiveness but gave us something richer!"
+"We also confess directly to God! But Jesus gave the apostles specific power to forgive sins[¹⁵](#ref-15), which priests continue. It's like being sick—you can ask God for healing AND go to a doctor. Protestant confession is good but incomplete. The Catholic way gives us: 1) Certainty of forgiveness (we hear the words), 2) Advice for improvement, 3) Accountability, 4) Grace through the sacrament. God could have chosen direct-only forgiveness but gave us something richer!"
 
 #### 🛑 What Not To Say
 
@@ -328,7 +328,7 @@ All united in Christ, helping each other!
 ✅ Say: "Church members have sinned, but the Church's teaching remains true"
 
 ❌ "You have to be Catholic to be saved"
-✅ Say: "The normal way is through the Church, but God can save others too"[16](#ref-16)
+✅ Say: "The normal way is through the Church, but God can save others too"[¹⁶](#ref-16)
 
 ❌ "Just obey and don't question"
 ✅ Say: "Let's understand why the Church teaches this"

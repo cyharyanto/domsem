@@ -11,7 +11,7 @@ parent: "Part I — Pre-School Formation"
 
 Before your child can pronounce "theological," they can pray. Before they understand transubstantiation, they can experience the sacred through touch. This chapter explores how to introduce the youngest children to prayer as a natural conversation with God who is already present, already listening, already loving.
 
-> "Unless you become like little children, you will never enter the kingdom of heaven"[1](#ref-1). Perhaps this is because children already know what we adults forget: that prayer is fundamentally about relationship, not performance.
+> "Unless you become like little children, you will never enter the kingdom of heaven"[¹](#ref-1). Perhaps this is because children already know what we adults forget: that prayer is fundamentally about relationship, not performance.
 
 ### Theological Foundation: Can Babies Pray?
 
@@ -19,11 +19,11 @@ Before your child can pronounce "theological," they can pray. Before they unders
 
 **Objection 1**: It would seem that infants cannot pray, for prayer requires intention, and babies lack rational intention.
 
-**Objection 2**: Furthermore, prayer is the lifting of the mind and heart to God[2](#ref-2), but infants have no concept of God to whom they might lift their hearts.
+**Objection 2**: Furthermore, prayer is the lifting of the mind and heart to God[²](#ref-2), but infants have no concept of God to whom they might lift their hearts.
 
 **Objection 3**: Moreover, if babies could pray, baptism would be unnecessary, for they would already be in communion with God.
 
-**On the contrary**, the Psalmist declares, "From the lips of children and infants you have ordained praise"[3](#ref-3). Additionally, St. Thérèse of Lisieux speaks of her earliest memories being suffused with awareness of God's presence[4](#ref-4).
+**On the contrary**, the Psalmist declares, "From the lips of children and infants you have ordained praise"[³](#ref-3). Additionally, St. Thérèse of Lisieux speaks of her earliest memories being suffused with awareness of God's presence[⁴](#ref-4).
 
 **I answer that** prayer admits of degrees. In its highest form, prayer is indeed the conscious lifting of mind and heart to God. But prayer begins more fundamentally as the orientation of one's being toward the divine. 
 
@@ -176,7 +176,7 @@ The child can now engage in simple prayer practices and understand basic prayer 
 
 **Question**: Whether children must be still to pray?
 
-**I answer that** stillness is one form of prayer, not its only form. King David danced before the Lord[5](#ref-5). Children often pray best through:
+**I answer that** stillness is one form of prayer, not its only form. King David danced before the Lord[⁵](#ref-5). Children often pray best through:
 - Movement prayers with gestures
 - Walking while talking to God
 - Dancing to sacred music
@@ -216,14 +216,14 @@ Modern culture has made us suspicious of touch, for good protective reasons. But
 #### The Theology of Sacred Touch
 
 **In Scripture**:
-- Jesus touched children to bless them[6](#ref-6)
-- Laying on of hands conveys blessing[7](#ref-7)
-- The Father's embrace welcomes the prodigal[8](#ref-8)
+- Jesus touched children to bless them[⁶](#ref-6)
+- Laying on of hands conveys blessing[⁷](#ref-7)
+- The Father's embrace welcomes the prodigal[⁸](#ref-8)
 
 **In Tradition**:
 - Parents have authority to bless
 - Sacramentals work through material means
-- The body is temple of the Holy Spirit[9](#ref-9)
+- The body is temple of the Holy Spirit[⁹](#ref-9)
 
 #### Appropriate Sacred Touch
 

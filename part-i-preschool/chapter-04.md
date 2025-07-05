@@ -11,19 +11,19 @@ parent: "Part I — Pre-School Formation"
 
 The day approaches when your child will leave the domestic monastery and enter the mission field. Whether they attend Catholic school, public school, or are homeschooled with secular curricula and activities, they will encounter a world that does not share their fundamental assumptions about reality. This chapter helps you prepare them not for a spiritual bunker but for confident, joyful engagement with the world Christ came to save.
 
-> "I do not ask that you take them out of the world, but that you protect them from the evil one"[1](#ref-1). Jesus' prayer for his disciples becomes every parent's prayer as their children enter formal education.
+> "I do not ask that you take them out of the world, but that you protect them from the evil one"[¹](#ref-1). Jesus' prayer for his disciples becomes every parent's prayer as their children enter formal education.
 
 ### Theological Foundation: Faith and World
 
 **Question**: Whether young Catholic children should be exposed to secular education environments?
 
-**Objection 1**: It would seem that Catholic children should be protected from secular influences until their faith is fully formed, for one does not send sheep among wolves[2](#ref-2).
+**Objection 1**: It would seem that Catholic children should be protected from secular influences until their faith is fully formed, for one does not send sheep among wolves[²](#ref-2).
 
 **Objection 2**: Furthermore, secular education actively undermines religious faith through materialist assumptions and moral relativism.
 
 **Objection 3**: Moreover, peer influence in secular settings will overwhelm parental formation, as studies consistently show.
 
-**On the contrary**, the Second Vatican Council teaches that the Church "goes forward together with humanity and experiences the same earthly lot which the world does"[3](#ref-3). Additionally, Christ commands us to be salt and light in the world[4](#ref-4), which requires presence, not absence.
+**On the contrary**, the Second Vatican Council teaches that the Church "goes forward together with humanity and experiences the same earthly lot which the world does"[³](#ref-3). Additionally, Christ commands us to be salt and light in the world[⁴](#ref-4), which requires presence, not absence.
 
 **I answer that** the question is not whether but how Catholic children engage with secular culture. Complete isolation is neither possible nor desirable in our interconnected age. Rather, we must prepare children to be:
 
@@ -32,7 +32,7 @@ The day approaches when your child will leave the domestic monastery and enter t
 3. **Supported** through ongoing formation at home
 4. **Confident** in the truth and beauty of their faith
 
-The goal is not preserving innocence indefinitely but cultivating holy wisdom. As St. Irenaeus taught, God permits exposure to evil so that good might be chosen freely and thus become truly ours[5](#ref-5).
+The goal is not preserving innocence indefinitely but cultivating holy wisdom. As St. Irenaeus taught, God permits exposure to evil so that good might be chosen freely and thus become truly ours[⁵](#ref-5).
 
 **Reply to Objection 1**: Christ's image assumes the sheep know their shepherd's voice. Children with strong domestic formation can recognize what contradicts their faith.
 

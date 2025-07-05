@@ -16,6 +16,8 @@ CC BY-NC — Christoforus Yoga Haryanto, 2025
 
 Version 0.1 - A Living Document
 
+> 📖 **Source Repository**: This curriculum is developed and maintained at [github.com/cyharyanto/domsem](https://github.com/cyharyanto/domsem). For the latest updates, contributions, and discussions, please visit the repository.
+
 ---
 
 ## License and Declaration

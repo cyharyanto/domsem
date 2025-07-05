@@ -33,17 +33,17 @@ parent: "Part II — Primary Years"
 
 **Objection 3**: Moreover, Jesus prayed to God the Father. How can God pray to God? That doesn't make sense.
 
-**On the contrary**, Jesus Himself said, "I and the Father are one"[1](#ref-1), and St. Thomas called Him "My Lord and my God!"[2](#ref-2)
+**On the contrary**, Jesus Himself said, "I and the Father are one"[¹](#ref-1), and St. Thomas called Him "My Lord and my God!"[²](#ref-2)
 
 **I answer that** Jesus is the most amazing person who ever lived because He is both fully God and fully human. This is like having a dual citizenship—some people are fully American AND fully Mexican. They're not half and half; they're completely both!
 
 Here's a way to think about it: Imagine if the person who invented Minecraft could actually enter the game as a character. They would know all the secret codes and have all the power of the creator, but they would also experience the game world like any player—getting hungry, needing shelter, even "dying" and respawning. That's a tiny bit like what God did in Jesus—the Creator entered His creation!
 
-Jesus has two natures in one person[3](#ref-3):
+Jesus has two natures in one person[³](#ref-3):
 - **Divine nature**: He can forgive sins, calm storms, know people's thoughts, rise from the dead
 - **Human nature**: He was born, grew up, got hungry, felt sad, had friends, died
 
-**Reply to Objection 1**: Jesus chose to experience human limitations. It's like a dad crawling on the floor to play with his baby—he doesn't lose his ability to walk; he chooses to meet the baby where they are. Jesus "emptied himself"[4](#ref-4) to be with us.
+**Reply to Objection 1**: Jesus chose to experience human limitations. It's like a dad crawling on the floor to play with his baby—he doesn't lose his ability to walk; he chooses to meet the baby where they are. Jesus "emptied himself"[⁴](#ref-4) to be with us.
 
 **Reply to Objection 2**: Jesus died in His human nature, but His divine nature cannot die. It's like when you go to sleep—your body rests, but your soul keeps existing. When Jesus died, His human body died, but He was still God, which is why He could rise again!
 
@@ -57,11 +57,11 @@ Jesus has two natures in one person[3](#ref-3):
 
 **Objection 2**: Furthermore, only God could pay the debt of sin, so He had no choice but to come Himself.
 
-**On the contrary**, "God so loved the world that He gave His only Son"[5](#ref-5)—love, not necessity, motivated the Incarnation.
+**On the contrary**, "God so loved the world that He gave His only Son"[⁵](#ref-5)—love, not necessity, motivated the Incarnation.
 
 **I answer that** God didn't come because He had to, but because He wanted to. Imagine your friend falls into a deep pit. You could throw down a rope, or hire someone to help, but instead you climb down yourself to be with them and help them climb out. That's even better than rescue—it's friendship!
 
-God became man for five amazing reasons[6](#ref-6):
+God became man for five amazing reasons[⁶](#ref-6):
 1. **To save us from sin**: Like a lifeguard diving into dangerous waters
 2. **To show us God's love**: Words weren't enough; He had to demonstrate
 3. **To be our model**: To show us how to live as God's children
@@ -82,7 +82,7 @@ Jesus spent 30 years in ordinary life! He:
 - Studied Scripture at synagogue
 - Prayed daily with His family
 
-> Why so long in hiddenness? Jesus shows us that ordinary life is holy too. You don't have to do big things to please God—doing small things with love is enough![7](#ref-7)
+> Why so long in hiddenness? Jesus shows us that ordinary life is holy too. You don't have to do big things to please God—doing small things with love is enough![⁷](#ref-7)
 
 **The Public Ministry (Age 30-33)**
 
@@ -95,14 +95,14 @@ For three years, Jesus traveled around showing people what God is really like:
 
 **Through His Miracles**:
 Each miracle was a sign pointing to something bigger:
-- Healing blind → "I am the light of the world"[8](#ref-8)
-- Feeding 5000 → "I am the bread of life"[9](#ref-9)
-- Raising the dead → "I am the resurrection"[10](#ref-10)
+- Healing blind → "I am the light of the world"[⁸](#ref-8)
+- Feeding 5000 → "I am the bread of life"[⁹](#ref-9)
+- Raising the dead → "I am the resurrection"[¹⁰](#ref-10)
 
 **Through His Friendships**:
 - Chose 12 ordinary men as apostles
 - Was friends with "sinners" and outcasts
-- Let children come to Him[11](#ref-11)
+- Let children come to Him[¹¹](#ref-11)
 - Had close friends like Mary, Martha, and Lazarus
 
 #### The Paschal Mystery: The Greatest Love Story
@@ -113,7 +113,7 @@ Each miracle was a sign pointing to something bigger:
 
 **Objection 2**: Furthermore, if Jesus is all-powerful, He could have saved us with a single word.
 
-**On the contrary**, Jesus said, "Greater love has no one than this: to lay down one's life for one's friends"[12](#ref-12).
+**On the contrary**, Jesus said, "Greater love has no one than this: to lay down one's life for one's friends"[¹²](#ref-12).
 
 **I answer that** Jesus didn't die because God is mean or needed blood. He died because that's how much He loves us! 
 
@@ -190,7 +190,7 @@ There's a new kid at school who doesn't speak English well. At recess, some kids
 
 **Think Like Jesus**:
 - What did Jesus do when people were left out?
-- Remember when Jesus was new in Egypt as a baby?[13](#ref-13)
+- Remember when Jesus was new in Egypt as a baby?[¹³](#ref-13)
 - How did Jesus treat people who were "different"?
 
 **The Jesus Choice**: Jesus always chose the lonely person. He ate with tax collectors, touched lepers, talked to Samaritans. Following Jesus means sometimes being unpopular to be loving.
@@ -223,7 +223,7 @@ Different people believe different things about Jesus:
 - **Hindus**: An enlightened teacher like their gurus
 - **Atheists**: Maybe just a story or a good man
 
-**What We Believe**: Jesus is fully God and fully man, our Savior and Lord[14](#ref-14).
+**What We Believe**: Jesus is fully God and fully man, our Savior and Lord[¹⁴](#ref-14).
 
 **How to Talk About It**:
 - "I believe Jesus is God's Son who saves us"
@@ -263,22 +263,22 @@ Your child is developing:
 
 **The Hypostatic Union**
 What we're really teaching when we say "God and man":
-- One Divine Person (the Word) with two natures[15](#ref-15)
+- One Divine Person (the Word) with two natures[¹⁵](#ref-15)
 - Not a human person whom God adopted
 - Not God pretending to be human
 - Not half-God, half-man
 - But fully both, united in the Person of Christ
 
 **Cur Deus Homo? (Why Did God Become Man?)**
-The tradition gives multiple complementary reasons[16](#ref-16):
+The tradition gives multiple complementary reasons[¹⁶](#ref-16):
 - **Satisfaction Theory** (Anselm): To repair infinite offense
 - **Ransom Theory**: To free us from slavery
 - **Moral Influence**: To show us how to live
-- **Divinization**: To make us "partakers of divine nature"[17](#ref-17)
+- **Divinization**: To make us "partakers of divine nature"[¹⁷](#ref-17)
 - **Cosmic Recapitulation**: To sum up all creation in Himself
 
 **The Paschal Mystery**
-Not just death, but the whole movement[18](#ref-18):
+Not just death, but the whole movement[¹⁸](#ref-18):
 - Passion (suffering)
 - Death (separation)
 - Descent (solidarity with the dead)
@@ -296,10 +296,10 @@ This is the pattern of all Christian life: dying to self, rising in Christ.
 "Yes, it hurt terribly. Being God didn't make Jesus immune to pain—it made Him experience it perfectly. When you stub your toe, it hurts but you might forget about it. Jesus felt every bit of suffering completely. That's what makes His love so amazing—He knew exactly how much it would hurt and chose it anyway because He loves us that much."
 
 **"If Jesus rose from the dead, where is He now?"**
-"Jesus is in heaven with His Father, but here's the amazing part—He's also with us! After He rose, Jesus promised 'I am with you always'[19](#ref-19). He's with us in a special way in the Eucharist, He lives in our hearts through the Holy Spirit, and He's present when we gather in His name[20](#ref-20). So He's both in heaven AND here—because God isn't limited by space like we are!"
+"Jesus is in heaven with His Father, but here's the amazing part—He's also with us! After He rose, Jesus promised 'I am with you always'[¹⁹](#ref-19). He's with us in a special way in the Eucharist, He lives in our hearts through the Holy Spirit, and He's present when we gather in His name[²⁰](#ref-20). So He's both in heaven AND here—because God isn't limited by space like we are!"
 
 **"My friend says Jesus was just a good teacher"**
-"Your friend is right that Jesus was a good teacher—maybe the best ever! But good teachers don't usually claim to forgive sins, calm storms, or rise from the dead. C.S. Lewis said Jesus is either a liar (He knew He wasn't God but said He was), a lunatic (He thought He was God but wasn't), or Lord (He really is God)[21](#ref-21). What we believe is based on His miracles, His resurrection, and the way He changed the world."
+"Your friend is right that Jesus was a good teacher—maybe the best ever! But good teachers don't usually claim to forgive sins, calm storms, or rise from the dead. C.S. Lewis said Jesus is either a liar (He knew He wasn't God but said He was), a lunatic (He thought He was God but wasn't), or Lord (He really is God)[²¹](#ref-21). What we believe is based on His miracles, His resurrection, and the way He changed the world."
 
 #### 🛑 What Not To Say
 
@@ -316,7 +316,7 @@ This is the pattern of all Christian life: dying to self, rising in Christ.
 ✅ Say: "Jesus was Middle Eastern, but He came for all people"
 
 ❌ "Jews killed Jesus"
-✅ Say: "Our sins killed Jesus—He died for everyone"[22](#ref-22)
+✅ Say: "Our sins killed Jesus—He died for everyone"[²²](#ref-22)
 
 #### 🙏🏽 Liturgical Practices
 

@@ -33,7 +33,7 @@ parent: "Part II — Primary Years"
 
 **Objection 3**: Moreover, if God is everywhere, why do we need special rituals to meet Him?
 
-**On the contrary**, Jesus said "This IS my body"[1](#ref-1) not "This represents my body," and "Whoever eats my flesh and drinks my blood has eternal life"[2](#ref-2).
+**On the contrary**, Jesus said "This IS my body"[¹](#ref-1) not "This represents my body," and "Whoever eats my flesh and drinks my blood has eternal life"[²](#ref-2).
 
 **I answer that** sacraments are special meetings with Jesus that actually give us what they show. They're not like regular symbols—they're more like what happens when you plug your tablet into the charger. You can't see electricity flowing, but it's really charging the battery!
 
@@ -42,7 +42,7 @@ Here's the difference:
 - A **sacrament** shows God's grace AND actually gives it
 - It's like the difference between a picture of food and real food
 
-Think of it this way: When your mom says "I love you" and gives you a hug, her words and hug don't just show love—they really give love. You feel loved, warmed, strengthened. Sacraments are like God's hugs—they don't just tell us about His love, they pour His love (grace) into our souls[3](#ref-3).
+Think of it this way: When your mom says "I love you" and gives you a hug, her words and hug don't just show love—they really give love. You feel loved, warmed, strengthened. Sacraments are like God's hugs—they don't just tell us about His love, they pour His love (grace) into our souls[³](#ref-3).
 
 **Reply to Objection 1**: You're right that symbols show something, but sacraments DO something. It's like the difference between a picture of medicine and real medicine—one just shows, the other actually heals.
 
@@ -60,7 +60,7 @@ Think of it this way: When your mom says "I love you" and gives you a hug, her w
 
 **Objection 3**: Moreover, talking about sin might make children feel bad about themselves.
 
-**On the contrary**, Jesus said "Let the little children come to me"[4](#ref-4) precisely to heal and bless them, implying they need healing.
+**On the contrary**, Jesus said "Let the little children come to me"[⁴](#ref-4) precisely to heal and bless them, implying they need healing.
 
 **I answer that** we need to understand sin properly—it's not about being "bad" but about being spiritually sick and needing Doctor Jesus.
 
@@ -102,7 +102,7 @@ Imagine you broke your mom's favorite vase. You feel terrible. You could:
 
 Confession is like option 3 with God:
 
-**What Happens in Confession**[5](#ref-5):
+**What Happens in Confession**[⁵](#ref-5):
 1. **We tell God** (through the priest) what we did wrong
 2. **We say we're sorry** and mean it
 3. **God forgives us** completely—it's gone!
@@ -112,7 +112,7 @@ Confession is like option 3 with God:
 > The priest is like a spiritual doctor. You wouldn't be embarrassed to tell a doctor where it hurts—that's how they help you! Same with confession.
 
 **Why Tell a Priest?**
-- Jesus gave priests the power to forgive sins[6](#ref-6)
+- Jesus gave priests the power to forgive sins[⁶](#ref-6)
 - Saying it out loud helps us be honest
 - The priest gives advice to help us improve
 - We hear the words "You are forgiven"—so powerful!
@@ -128,13 +128,13 @@ Confession is like option 3 with God:
 
 **Objection 3**: Moreover, it seems like cannibalism to eat someone's body and blood.
 
-**On the contrary**, Jesus clearly said "This IS my body... This IS my blood"[7](#ref-7) and "My flesh is real food and my blood is real drink"[8](#ref-8).
+**On the contrary**, Jesus clearly said "This IS my body... This IS my blood"[⁷](#ref-7) and "My flesh is real food and my blood is real drink"[⁸](#ref-8).
 
 **I answer that** the Eucharist is the most amazing miracle that happens every day! It's hard to understand, but here's a way to think about it:
 
 You know how water can be ice, liquid, or steam? It changes form but it's still H₂O. In the Eucharist, something even more amazing happens—the opposite! The appearance stays the same (bread and wine) but what it IS changes completely (Body and Blood of Christ).
 
-We call this **transubstantiation**[9](#ref-9):
+We call this **transubstantiation**[⁹](#ref-9):
 - **Trans** = change
 - **Substantiation** = what it really is
 - The substance changes while the appearances remain
@@ -260,7 +260,7 @@ Other religions have practices that might look like sacraments:
 - "In our Church, we believe sacraments actually give grace"
 - Never: "Yours is fake" or "Only ours work"
 
-> Remember: God can work outside the sacraments too. We believe sacraments are the sure ways Jesus gave us, but God isn't limited by them[10](#ref-10).
+> Remember: God can work outside the sacraments too. We believe sacraments are the sure ways Jesus gave us, but God isn't limited by them[¹⁰](#ref-10).
 
 #### 👣 Saint of the Week: St. Tarcisius
 
@@ -293,14 +293,14 @@ Beyond sacramental preparation, you're helping your child develop:
 #### 🧠 Theology Behind the Simplicity
 
 **Ex Opere Operato**
-The sacraments work "by the very fact of the action being performed"[11](#ref-11):
+The sacraments work "by the very fact of the action being performed"[¹¹](#ref-11):
 - Not dependent on the holiness of the minister
 - Not dependent on perfect understanding
 - But disposition matters for fruitfulness
 - Like medicine works even if you don't understand chemistry
 
 **Sacramental Character**
-Baptism, Confirmation, and Holy Orders imprint a permanent seal[12](#ref-12):
+Baptism, Confirmation, and Holy Orders imprint a permanent seal[¹²](#ref-12):
 - Configures us to Christ
 - Can never be repeated
 - Remains even if we sin
@@ -308,13 +308,13 @@ Baptism, Confirmation, and Holy Orders imprint a permanent seal[12](#ref-12):
 
 **Real Presence Theology**
 The Church teaches:
-- Transubstantiation: substance changes, accidents remain[13](#ref-13)
-- Whole Christ present in each particle[14](#ref-14)
+- Transubstantiation: substance changes, accidents remain[¹³](#ref-13)
+- Whole Christ present in each particle[¹⁴](#ref-14)
 - Presence remains as long as appearances do
-- Worthy reception requires state of grace[15](#ref-15)
+- Worthy reception requires state of grace[¹⁵](#ref-15)
 
 **The Age of Reason**
-Around age 7, children typically[16](#ref-16):
+Around age 7, children typically[¹⁶](#ref-16):
 - Distinguish right from wrong
 - Understand consequences
 - Can make free choices
@@ -336,7 +336,7 @@ Around age 7, children typically[16](#ref-16):
 "Yes! It keeps all the appearances of bread—taste, texture, smell. That's part of the miracle. If it tasted like flesh and blood, would you want to receive? Jesus keeps it looking and tasting like bread so we can receive Him without being scared or grossed out. But faith tells us what our senses can't—it's really Jesus! It's like when Mom says 'I love you'—you can't taste or see the love, but it's real."
 
 **"My Protestant friend says confession to a priest is wrong"**
-"Your friend loves Jesus too, which is wonderful! Different Christians understand things differently. We believe Jesus gave the apostles special power to forgive sins when He breathed on them and said 'Whose sins you forgive are forgiven'[17](#ref-17). The priests continue that ministry. Your friend might confess directly to God, which is good too! We do both—we tell God we're sorry AND we hear His forgiveness through the priest."
+"Your friend loves Jesus too, which is wonderful! Different Christians understand things differently. We believe Jesus gave the apostles special power to forgive sins when He breathed on them and said 'Whose sins you forgive are forgiven'[¹⁷](#ref-17). The priests continue that ministry. Your friend might confess directly to God, which is good too! We do both—we tell God we're sorry AND we hear His forgiveness through the priest."
 
 #### 🛑 What Not To Say
 

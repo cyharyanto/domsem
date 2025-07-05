@@ -29,11 +29,11 @@ parent: "Part III — Secondary Years"
 
 **Objection 1**: It seems so, for vast inequalities in wealth and power are a source of great suffering. A just society would ensure everyone has roughly the same resources.
 
-**Objection 2**: Furthermore, Scripture says "the laborer deserves his wages"[1](#ref-1), but some CEOs earn thousands of times more than their workers. This is inherently unequal and therefore unjust.
+**Objection 2**: Furthermore, Scripture says "the laborer deserves his wages"[¹](#ref-1), but some CEOs earn thousands of times more than their workers. This is inherently unequal and therefore unjust.
 
 **Objection 3**: Moreover, historical injustices (like colonialism and slavery) have given some groups an unfair advantage. Justice requires leveling the playing field, even if it means redistributing wealth from the privileged to the disadvantaged.
 
-**On the contrary**, the classical definition of justice, adopted by the Church, is "the constant and firm will to give their due to God and neighbor"[2](#ref-2). This focuses on what is *due*, not what is *equal*.
+**On the contrary**, the classical definition of justice, adopted by the Church, is "the constant and firm will to give their due to God and neighbor"[²](#ref-2). This focuses on what is *due*, not what is *equal*.
 
 **I answer that** we must distinguish between different kinds of justice and between justice and envy. The Church's vision of justice is far more radical and comprehensive than mere economic equality.
 
@@ -41,7 +41,7 @@ parent: "Part III — Secondary Years"
 -   **Distributive Justice**: Governs what the community owes the individual (e.g., ensuring everyone has access to basic necessities).
 -   **Legal Justice**: Governs what the individual owes the community (e.g., paying taxes, obeying just laws).
 
-The goal is not a flat equality, which can be profoundly unjust (e.g., giving the same grade to the student who studied and the one who did not). The goal is the **Common Good**: the sum total of social conditions which allow people, either as groups or as individuals, to reach their fulfillment more fully and more easily[3](#ref-3). A society is just when it is ordered toward the flourishing of every single person, respecting their dignity and contribution. While this requires addressing gross inequalities, it does not aim for a bland and coercive sameness.
+The goal is not a flat equality, which can be profoundly unjust (e.g., giving the same grade to the student who studied and the one who did not). The goal is the **Common Good**: the sum total of social conditions which allow people, either as groups or as individuals, to reach their fulfillment more fully and more easily[³](#ref-3). A society is just when it is ordered toward the flourishing of every single person, respecting their dignity and contribution. While this requires addressing gross inequalities, it does not aim for a bland and coercive sameness.
 
 **Reply to Objection 1**: Envy, one of the seven deadly sins, can disguise itself as a call for justice. The Church's concern is not that some have more, but that some have *less than what is their due* as human beings made in God's image. The focus is on lifting the floor, not lowering the ceiling.
 
@@ -57,13 +57,13 @@ The goal is not a flat equality, which can be profoundly unjust (e.g., giving th
 
 **Objection 3**: Moreover, Jesus commands us to care for the poor. The most effective way to do this on a large scale is through government welfare programs funded by taxes.
 
-**On the contrary**, Pope Pius XI taught that "it is a grave evil and disturbance of right order to assign to a greater and higher association what lesser and subordinate organizations can do"[4](#ref-4). This is the principle of **Subsidiarity**.
+**On the contrary**, Pope Pius XI taught that "it is a grave evil and disturbance of right order to assign to a greater and higher association what lesser and subordinate organizations can do"[⁴](#ref-4). This is the principle of **Subsidiarity**.
 
 **I answer that** Catholic Social Teaching navigates between the errors of collectivism (which crushes the person) and radical individualism (which ignores the community). It does this through the twin principles of **Subsidiarity** and **Solidarity**.
 
 -   **Subsidiarity**: Problems should be solved at the most local, immediate level possible. A higher-level body (like the state) should only step in when a lower-level body (like a family, neighborhood, or local charity) is unable to address the need. The state's role is to *help* (from *subsidium*, "help, aid") the lower bodies, not to absorb or replace them. This protects personal responsibility and local community.
 
--   **Solidarity**: We are all one human family, responsible for one another. We are our brothers' and sisters' keepers. This is not a vague feeling but a firm and persevering determination to commit oneself to the common good[5](#ref-5). This principle protects us from selfish indifference and calls us to be concerned with global poverty, injustice, and suffering.
+-   **Solidarity**: We are all one human family, responsible for one another. We are our brothers' and sisters' keepers. This is not a vague feeling but a firm and persevering determination to commit oneself to the common good[⁵](#ref-5). This principle protects us from selfish indifference and calls us to be concerned with global poverty, injustice, and suffering.
 
 Subsidiarity and Solidarity are not opposed but are two sides of the same coin. Solidarity without subsidiarity leads to an impersonal, bureaucratic welfare state. Subsidiarity without solidarity leads to a selfish, "not-in-my-backyard" individualism. A just society holds them in creative tension.
 
@@ -119,8 +119,8 @@ Your school is holding a debate on climate change.
 
 **Thinking with the Mind of the Church**:
 A Catholic approach transcends this partisan binary. Using CST, you could argue:
--   From **Laudato Si'**: Yes, there is a crisis. We have a duty of stewardship for creation, our common home. The cry of the earth and the cry of the poor are one[6](#ref-6). (Solidarity)
--   From **Centesimus Annus**: The solution cannot be a top-down state-controlled system that ignores the human person and legitimate economic freedom[7](#ref-7). (Subsidiarity)
+-   From **Laudato Si'**: Yes, there is a crisis. We have a duty of stewardship for creation, our common home. The cry of the earth and the cry of the poor are one[⁶](#ref-6). (Solidarity)
+-   From **Centesimus Annus**: The solution cannot be a top-down state-controlled system that ignores the human person and legitimate economic freedom[⁷](#ref-7). (Subsidiarity)
 -   A Catholic position would seek an **integral ecology**: solutions that link environmental protection with authentic human development, with a preferential option for the poor, who are often most affected by both environmental degradation and poorly designed policies.
 
 #### 📱 Digital/Media Discernment
@@ -167,7 +167,7 @@ She was a radical who was arrested multiple times for protests. Yet she went to 
 
 #### 🧠 Theology Behind the Simplicity
 
--   **The Universal Destination of Goods**: The principle that the goods of creation are destined for the whole human race. Private property is a right, but it is not absolute; it carries a "social mortgage"[8](#ref-8).
+-   **The Universal Destination of Goods**: The principle that the goods of creation are destined for the whole human race. Private property is a right, but it is not absolute; it carries a "social mortgage"[⁸](#ref-8).
 -   **Integral Human Development**: Development is not just about economic growth. It must include the social, cultural, spiritual, and moral dimensions of the person.
 -   **Structures of Sin**: John Paul II's term for social situations or institutions that are the fruit of personal sin and which in turn lead to more sin (e.g., a system of predatory lending). Justice requires working to dismantle these structures.
 -   **Charity and Justice**: Pope Benedict XVI, in *Caritas in Veritate*, emphasized that justice is the primary way of charity. Loving your neighbor means first working to ensure they are given their due.

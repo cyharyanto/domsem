@@ -33,11 +33,11 @@ parent: "Part II — Primary Years"
 
 **Objection 3**: Moreover, science explains everything without needing God, so belief is just for people who don't understand science.
 
-**On the contrary**, St. Paul says "What can be known about God is plain to them, because God has shown it to them through what has been made"[1](#ref-1). Also, people throughout history—including great scientists—have found compelling reasons to believe.
+**On the contrary**, St. Paul says "What can be known about God is plain to them, because God has shown it to them through what has been made"[¹](#ref-1). Also, people throughout history—including great scientists—have found compelling reasons to believe.
 
 **I answer that** we can know God exists through reason, though we need faith to know Him personally. It's like knowing fire exists because you see smoke, even if you can't see the fire itself.
 
-Here are five clues that point to God[2](#ref-2):
+Here are five clues that point to God[²](#ref-2):
 
 1. **Motion**: Everything that moves was moved by something else. Like dominoes falling—something had to push the first one. God is the "First Mover."
 
@@ -65,9 +65,9 @@ Here are five clues that point to God[2](#ref-2):
 
 **Objection 3**: Moreover, smart people should only believe what they can figure out themselves.
 
-**On the contrary**, Jesus praised Peter's faith but also showed Thomas evidence[3](#ref-3). The Church has always taught that faith and reason work together[4](#ref-4).
+**On the contrary**, Jesus praised Peter's faith but also showed Thomas evidence[³](#ref-3). The Church has always taught that faith and reason work together[⁴](#ref-4).
 
-**I answer that** faith and reason are like two wings that lift us to truth[5](#ref-5). Neither alone is enough:
+**I answer that** faith and reason are like two wings that lift us to truth[⁵](#ref-5). Neither alone is enough:
 
 - **Reason alone** is like trying to understand your parents' love using only math
 - **Faith alone** is like trying to fly with one wing
@@ -96,22 +96,22 @@ The Creed is like our family story—it tells us who we are. Let's explore why w
 **"I believe in God, the Father Almighty, Creator of heaven and earth"**
 
 Why believe in God the Father?
-- The universe had a beginning (Big Bang)—what caused it?[6](#ref-6)
+- The universe had a beginning (Big Bang)—what caused it?[⁶](#ref-6)
 - The universe follows laws—who made the laws?
 - We long for perfect love—where does that longing come from?
 
 **"I believe in Jesus Christ, His only Son, our Lord"**
 
 Why believe Jesus is God?
-- He claimed to be God and backed it up with miracles[7](#ref-7)
-- He rose from the dead—hundreds saw Him[8](#ref-8)
+- He claimed to be God and backed it up with miracles[⁷](#ref-7)
+- He rose from the dead—hundreds saw Him[⁸](#ref-8)
 - He changed history more than any other person
 - His teachings are too wise for a mere human
 
 **"I believe in the Holy Spirit"**
 
 Why believe in the Holy Spirit?
-- Jesus promised to send Him[9](#ref-9)
+- Jesus promised to send Him[⁹](#ref-9)
 - The Church's survival and growth despite persecution
 - Changed lives (sinners becoming saints)
 - Unity among believers across cultures and centuries
@@ -119,7 +119,7 @@ Why believe in the Holy Spirit?
 **"I believe in the holy Catholic Church"**
 
 Why believe in the Church?
-- Founded by Jesus on Peter[10](#ref-10)
+- Founded by Jesus on Peter[¹⁰](#ref-10)
 - Unbroken line of popes for 2000 years
 - Produces saints in every generation
 - Guards the truth through good times and bad
@@ -238,7 +238,7 @@ Everyone asks the big questions:
 3. Share without forcing: "In my faith, we believe..."
 4. Respect differences: "That's interesting. I see it differently..."
 
-> Remember: We believe we have the fullest truth in Catholic faith, but others have pieces of truth too. The Holy Spirit works everywhere![11](#ref-11)
+> Remember: We believe we have the fullest truth in Catholic faith, but others have pieces of truth too. The Holy Spirit works everywhere![¹¹](#ref-11)
 
 #### 👣 Saint of the Week: St. Augustine
 
@@ -251,7 +251,7 @@ Augustine was brilliant but lost. He tried everything:
 
 His mother Monica prayed for him for 17 years! Finally, he read Scripture and everything clicked. He became one of the Church's greatest thinkers, showing that:
 - Faith completes reason
-- Our hearts are restless until they rest in God[12](#ref-12)
+- Our hearts are restless until they rest in God[¹²](#ref-12)
 - It's never too late to find truth
 
 **This Week's Challenge**: Like Augustine, bring your real questions to God. Don't pretend to understand what you don't. Seek truth honestly!
@@ -270,25 +270,25 @@ Your child is developing:
 #### 🧠 Theology Behind the Simplicity
 
 **The Act of Faith**
-Faith involves three elements[13](#ref-13):
+Faith involves three elements[¹³](#ref-13):
 1. **Credere Deum** (Believe God exists)—intellectual assent
 2. **Credere Deo** (Believe God)—trust His revelation
 3. **Credere in Deum** (Believe into God)—personal commitment
 
 **Natural vs. Supernatural Revelation**
-- **Natural**: What reason can know (God exists, basic morality)[14](#ref-14)
-- **Supernatural**: What only God can reveal (Trinity, Incarnation)[15](#ref-15)
+- **Natural**: What reason can know (God exists, basic morality)[¹⁴](#ref-14)
+- **Supernatural**: What only God can reveal (Trinity, Incarnation)[¹⁵](#ref-15)
 - Both are needed for full truth
 
 **Development of Doctrine**
-The Creed developed over time[16](#ref-16):
+The Creed developed over time[¹⁶](#ref-16):
 - Apostles' Creed (early summary)
 - Nicene Creed (325 AD, clarifying Christ's divinity)
 - Not new truths but deeper understanding
 - Like a tree growing from seed
 
 **Motives of Credibility**
-The Church offers rational grounds for faith[17](#ref-17):
+The Church offers rational grounds for faith[¹⁷](#ref-17):
 - Miracles (especially Resurrection)
 - Prophecies fulfilled
 - Church's miraculous spread
@@ -330,7 +330,7 @@ The Church offers rational grounds for faith[17](#ref-17):
 
 **Daily**
 - Morning: Pray one line of Creed slowly
-- Difficulties: "Lord, I believe; help my unbelief!"[18](#ref-18)
+- Difficulties: "Lord, I believe; help my unbelief!"[¹⁸](#ref-18)
 - Evening: "Thank you for one way I saw You today"
 - Bedtime: Act of Faith prayer
 
