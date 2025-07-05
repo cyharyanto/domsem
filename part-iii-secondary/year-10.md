@@ -33,13 +33,13 @@ parent: "Part III — Secondary Years"
 
 **Objection 3**: Moreover, different cultures have radically different moral truths. Some cultures practiced human sacrifice, which we find abhorrent. This shows that truth is culturally constructed.
 
-**On the contrary**, Jesus Christ does not say "I am a truth," but "I am *the* truth"[¹⁴⁶](#ref-146). And it is a basic principle of reason that a thing cannot both be and not be at the same time in the same respect (the law of non-contradiction).
+**On the contrary**, Jesus Christ does not say "I am a truth," but "I am *the* truth"[1](#ref-1). And it is a basic principle of reason that a thing cannot both be and not be at the same time in the same respect (the law of non-contradiction).
 
 **I answer that** we must distinguish between objective truth and subjective opinion. **Objective truth** is the correspondence of the mind to reality; it conforms to what *is*, independent of what we think or feel. **Subjective opinion** is what we happen to believe, which may or may not align with reality.
 
 The very statement "all truth is subjective" is a claim to an objective truth and is therefore self-refuting. If it is objectively true that truth is subjective, the statement itself is an objective truth, and thus it contradicts itself. If it is only subjectively true, then I am free to reject it. Relativism is intellectually incoherent.
 
-Truth is not something we invent, but something we discover. Our minds are made for reality, as our lungs are for air. When our thoughts match reality, we are in the truth, and this is where we find freedom[¹⁴⁷](#ref-147).
+Truth is not something we invent, but something we discover. Our minds are made for reality, as our lungs are for air. When our thoughts match reality, we are in the truth, and this is where we find freedom[2](#ref-2).
 
 **Reply to Objection 1**: This phrase confuses "truth" with "perspective" or "belief." A person has a perspective *on* the truth, but they do not possess their own separate truth. Two people can't have "their own truth" about whether the sun is hot or whether 2+2=4.
 
@@ -49,19 +49,19 @@ Truth is not something we invent, but something we discover. Our minds are made 
 
 #### Question: Whether one must follow one's conscience even if it contradicts Church teaching?
 
-**Objection 1**: It seems so, for the Church herself teaches that a person must always obey the certain judgment of his conscience[¹⁴⁸](#ref-148). Therefore, conscience is the final authority.
+**Objection 1**: It seems so, for the Church herself teaches that a person must always obey the certain judgment of his conscience[3](#ref-3). Therefore, conscience is the final authority.
 
 **Objection 2**: Furthermore, to act against one's conscience is to act without integrity. It is better to be a sincere heretic than an insincere Catholic.
 
 **Objection 3**: Moreover, the Holy Spirit can speak directly to my heart and conscience, which is a more direct guide than the external rules of an institution.
 
-**On the contrary**, the Second Vatican Council teaches that conscience is not an independent source of truth, but a "secret core and sanctuary" where a person is alone with God, "whose voice echoes in his depths"[¹⁴⁹](#ref-149). That voice speaks the objective moral law.
+**On the contrary**, the Second Vatican Council teaches that conscience is not an independent source of truth, but a "secret core and sanctuary" where a person is alone with God, "whose voice echoes in his depths"[4](#ref-4). That voice speaks the objective moral law.
 
 **I answer that** this question reveals a profound modern misunderstanding of conscience. Conscience is not a 'truth-creator' but a 'truth-detector.' It is the intellectual faculty by which we apply objective moral law, which we know through faith and reason, to a specific, concrete situation.
 
 Consider the analogy of a compass. A compass is an essential tool for navigation. You must always follow your compass. But what if the compass is broken and points south instead of north? Following it will lead you to disaster. Therefore, you have a prior, more fundamental duty: to ensure your compass is calibrated correctly—that it is oriented to True North.
 
-Similarly, we have a duty to follow our conscience, but we have a graver, prior duty to **form** our conscience according to objective truth. This formation happens through prayer, study of Scripture and Tradition, humble acceptance of the Church's Magisterial teaching, and seeking wise counsel[¹⁵⁰](#ref-150). A conscience that is not tethered to the truth revealed by God through His Church is not a guide but a sentiment.
+Similarly, we have a duty to follow our conscience, but we have a graver, prior duty to **form** our conscience according to objective truth. This formation happens through prayer, study of Scripture and Tradition, humble acceptance of the Church's Magisterial teaching, and seeking wise counsel[5](#ref-5). A conscience that is not tethered to the truth revealed by God through His Church is not a guide but a sentiment.
 
 **Reply to Objection 1**: Yes, one must follow a *certain* conscience. But if your conscience is certainly telling you to do something the Church teaches is gravely sinful, it means your conscience is "erroneous." You are culpable for the error if it comes from willful ignorance or a refusal to seek the truth. The immediate act of following the certain-but-wrong conscience may be subjectively blameless, but the prior act of failing to form it is not.
 
@@ -161,7 +161,7 @@ He was not following a subjective feeling. His conscience had been meticulously 
 #### 🛠 How to Respond When...
 
 **"Who's to say the Church is right and other religions are wrong?"**
-"That's a fair question. The Church's claim is a bold one. We believe it's the 'right' or 'fullest' path for a few key reasons: 1) It was founded by God Himself (Jesus Christ), not just by a wise human teacher. 2) Jesus backed up his divine claims by rising from the dead, a unique event in history. 3) The Catholic Church can trace its leadership (the popes and bishops) in an unbroken line back to the apostles Jesus chose. While other religions contain much wisdom and truth—what the Church calls 'seeds of the Word'[¹⁵¹](#ref-151)—we believe Catholicism contains the fullness of God's self-revelation."
+"That's a fair question. The Church's claim is a bold one. We believe it's the 'right' or 'fullest' path for a few key reasons: 1) It was founded by God Himself (Jesus Christ), not just by a wise human teacher. 2) Jesus backed up his divine claims by rising from the dead, a unique event in history. 3) The Catholic Church can trace its leadership (the popes and bishops) in an unbroken line back to the apostles Jesus chose. While other religions contain much wisdom and truth—what the Church calls 'seeds of the Word'[6](#ref-6)—we believe Catholicism contains the fullness of God's self-revelation."
 
 **"My conscience tells me that [X, which the Church teaches is wrong] is okay for me."**
 "I hear that you feel that way. Let's separate two things: your feeling, and the reality. The Church teaches that our consciences are like a beautiful window to let God's light in. But sometimes, the window gets dirty—from bad habits, from what our culture tells us, from our own desires. When our conscience tells us something different from what the Church has taught for 2000 years, it's like a warning light that our window might be dirty. The loving thing to do for ourselves is to try and clean the window—through prayer, confession, and learning *why* the Church teaches what it does—so we can let the pure light of truth shine in."
@@ -241,9 +241,9 @@ Seek out resources and conversations to learn more.
 
 ## References
 
-146. <a name="ref-146"></a>John 14:6.
-147. <a name="ref-147"></a>John 8:32.
-148. <a name="ref-148"></a>*Catechism of the Catholic Church* §1790.
-149. <a name="ref-149"></a>Second Vatican Council, *Gaudium et Spes* §16.
-150. <a name="ref-150"></a>*Catechism of the Catholic Church* §1783-1785.
-151. <a name="ref-151"></a>Second Vatican Council, *Ad Gentes* §11.
+1. <a name="ref-1"></a>John 14:6.
+2. <a name="ref-2"></a>John 8:32.
+3. <a name="ref-3"></a>*Catechism of the Catholic Church* §1790.
+4. <a name="ref-4"></a>Second Vatican Council, *Gaudium et Spes* §16.
+5. <a name="ref-5"></a>*Catechism of the Catholic Church* §1783-1785.
+6. <a name="ref-6"></a>Second Vatican Council, *Ad Gentes* §11.

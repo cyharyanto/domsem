@@ -32,17 +32,17 @@ parent: "Part II — Primary Years"
 
 **Objection 3**: Moreover, my friend said we came from monkeys, not from God.
 
-**On the contrary**, the Bible says God knew us before we were born: "Before I formed you in the womb I knew you"[²⁵](#ref-25).
+**On the contrary**, the Bible says God knew us before we were born: "Before I formed you in the womb I knew you"[1](#ref-1).
 
-**I answer that** God made you on purpose, for a purpose! Think about when you draw a picture. You don't just scribble randomly—you have an idea: "I want to draw my family" or "I want to make a rainbow." God is like the greatest artist ever, and when He made you, He had a wonderful idea: a person who could know Him, love Him, and be happy with Him forever[²⁶](#ref-26).
+**I answer that** God made you on purpose, for a purpose! Think about when you draw a picture. You don't just scribble randomly—you have an idea: "I want to draw my family" or "I want to make a rainbow." God is like the greatest artist ever, and when He made you, He had a wonderful idea: a person who could know Him, love Him, and be happy with Him forever[2](#ref-2).
 
 Imagine if you made a toy that could actually love you back. That would be amazing! That's what God did when He made people. He didn't need us—He was perfectly happy already. But He wanted to share His happiness, like when you're so happy you want to tell everyone and share your joy.
 
 **Reply to Objection 1**: You can't see God with your eyes because He doesn't have a body like we do. But you can see what He does—like how you can't see the wind, but you can see leaves dancing. You can't see love, but you feel it when Mom hugs you. God shows Himself through beautiful things, through people who love us, and especially through Jesus.
 
-**Reply to Objection 2**: God does tell you! He tells you in the Bible, through the Church, through your parents, and in your heart. The basic reason is always the same: to know Him, love Him, and serve Him in this world, and be happy with Him forever in heaven[²⁷](#ref-27). The specific way you'll do this—as a teacher, parent, priest, doctor, or something else—you'll discover as you grow.
+**Reply to Objection 2**: God does tell you! He tells you in the Bible, through the Church, through your parents, and in your heart. The basic reason is always the same: to know Him, love Him, and serve Him in this world, and be happy with Him forever in heaven[3](#ref-3). The specific way you'll do this—as a teacher, parent, priest, doctor, or something else—you'll discover as you grow.
 
-**Reply to Objection 3**: Your friend is talking about something scientists study called evolution. That's about how bodies developed over a very long time. But even if God used a long process to make human bodies, He still specially creates each person's soul—the part of you that thinks and loves and chooses. You're not just a fancy animal; you're made in God's image[²⁸](#ref-28)!
+**Reply to Objection 3**: Your friend is talking about something scientists study called evolution. That's about how bodies developed over a very long time. But even if God used a long process to make human bodies, He still specially creates each person's soul—the part of you that thinks and loves and chooses. You're not just a fancy animal; you're made in God's image[4](#ref-4)!
 
 #### The Trinity (Introduction of Names)
 
@@ -60,7 +60,7 @@ They're not three Gods—that would be like having three suns in the sky! They'r
 
 God is not like a clockmaker who makes a clock and walks away. He's more like a mother bird who watches over her nest constantly. The Bible tells us:
 
-"You formed my inmost being; you knit me in my mother's womb"[²⁹](#ref-29)
+"You formed my inmost being; you knit me in my mother's womb"[5](#ref-5)
 
 Think about someone knitting a sweater. They choose every color, make every stitch carefully, and think about the person who will wear it. That's how carefully God made you! He thought about:
 - What color your eyes would be
@@ -73,7 +73,7 @@ And He didn't just make you and forget. Right now, this very second, God:
 - Sees you reading this
 - Knows what you're thinking
 - Loves you more than all the parents in the world love their children combined
-- Has plans for your life that are good[³⁰](#ref-30)
+- Has plans for your life that are good[6](#ref-6)
 
 ### SECTION C: Thinking and Reflection Activities
 
@@ -129,7 +129,7 @@ Your little brother broke your favorite toy. You feel SO angry! You want to:
 3. Yell at him
 4. Never let him play with your things again
 
-**Let's Think**: If you're made in God's image, and God is love[³¹](#ref-31), what would show God's image in you?
+**Let's Think**: If you're made in God's image, and God is love[7](#ref-7), what would show God's image in you?
 
 **What Would God Do?**
 - Does God break our things when we mess up? (No!)
@@ -168,7 +168,7 @@ In your class, not everyone believes in God the same way. Some friends might:
 - Have different holy books (Jewish friends have the Torah)
 - Not pray at all (some families don't know about God yet)
 
-**Important Truth**: God made ALL people in His image, even if they don't know it yet![³²](#ref-32)
+**Important Truth**: God made ALL people in His image, even if they don't know it yet![8](#ref-8)
 
 **Practice Saying**:
 - "In my family, we believe..."
@@ -219,7 +219,7 @@ Beyond memorizing facts, you're helping your child develop:
 #### 🧠 Theology Behind the Simplicity
 
 **"Made in God's Image" (Imago Dei)**
-This doesn't mean physical resemblance but spiritual capacities[³³](#ref-33):
+This doesn't mean physical resemblance but spiritual capacities[9](#ref-9):
 - **Intellect**: We can know truth (animals can't ponder meaning)
 - **Will**: We can choose good (animals act on instinct)
 - **Love**: We can give ourselves freely (animals mate and protect, but don't sacrifice for strangers)
@@ -235,24 +235,24 @@ At this age, we're not teaching theological precision but establishing:
 
 **Creation vs. Making**
 Helping children distinguish:
-- God creates from nothing (ex nihilo)[³⁴](#ref-34)
+- God creates from nothing (ex nihilo)[10](#ref-10)
 - We make from what exists
-- God sustains everything in being moment by moment[³⁵](#ref-35)
+- God sustains everything in being moment by moment[11](#ref-11)
 - Without God, things wouldn't just stop working—they'd stop existing
 
 #### 🛠 How to Respond When...
 
 **"Why did God make mosquitoes/cancer/bad things?"**
-"That's a question even grown-ups wonder about! We know God made everything good at first[³⁶](#ref-36). But when sin came into the world, it messed things up—like when you drop your iPad and the screen cracks. The iPad was good, but now it's broken. God lets broken things exist for now, but He promises to fix everything in the end[³⁷](#ref-37). Meanwhile, He brings good even out of bad things—like how you learned to be careful with electronics!"
+"That's a question even grown-ups wonder about! We know God made everything good at first[12](#ref-12). But when sin came into the world, it messed things up—like when you drop your iPad and the screen cracks. The iPad was good, but now it's broken. God lets broken things exist for now, but He promises to fix everything in the end[13](#ref-13). Meanwhile, He brings good even out of bad things—like how you learned to be careful with electronics!"
 
 **"My teacher said we came from monkeys"**
-"Your teacher is talking about how bodies developed over time, which is interesting! Scientists study HOW things happened, like detectives. But they can't tell us WHY things exist—that's what faith tells us. The Catholic Church says it's okay to believe God used evolution to make our bodies, as long as we know He specially creates each person's soul[³⁸](#ref-38). You're not just a smart animal—you have a soul that will live forever!"
+"Your teacher is talking about how bodies developed over time, which is interesting! Scientists study HOW things happened, like detectives. But they can't tell us WHY things exist—that's what faith tells us. The Catholic Church says it's okay to believe God used evolution to make our bodies, as long as we know He specially creates each person's soul[14](#ref-14). You're not just a smart animal—you have a soul that will live forever!"
 
 **"I prayed but God didn't answer"**
 "God always hears and always answers, but sometimes His answer is 'wait' or 'I have something better in mind.' It's like when you ask for candy for dinner—I say no because I love you and know what's good for you. God can see everything—past, present, and future—so He knows what we really need. Keep praying and watch for His answer. Sometimes it comes in surprising ways!"
 
 **"Am I bad because I do bad things sometimes?"**
-"No! You're good because God made you good. But sometimes you choose to do not-good things—we all do. It's like being a prince or princess who sometimes forgets and acts like a regular kid. The bad things you do aren't who you ARE; they're mistakes you make. And the wonderful thing is God always forgives us when we're sorry and helps us do better next time[³⁹](#ref-39)."
+"No! You're good because God made you good. But sometimes you choose to do not-good things—we all do. It's like being a prince or princess who sometimes forgets and acts like a regular kid. The bad things you do aren't who you ARE; they're mistakes you make. And the wonderful thing is God always forgives us when we're sorry and helps us do better next time[15](#ref-15)."
 
 #### 🛑 What Not To Say
 
@@ -266,7 +266,7 @@ Helping children distinguish:
 ✅ Say: "The most real things—love, beauty, goodness—are invisible"
 
 ❌ "Other religions are bad/wrong"
-✅ Say: "We believe we have the fullest truth, but other religions have some truth too"[⁴⁰](#ref-40)
+✅ Say: "We believe we have the fullest truth, but other religions have some truth too"[16](#ref-16)
 
 ❌ "You have to be good for God to love you"
 ✅ Say: "God loves you always. Being good is how we love Him back"
@@ -366,19 +366,19 @@ Ask your parent to help you find out more!
 
 ## References
 
-25. <a name="ref-25"></a>Jeremiah 1:5.
-26. <a name="ref-26"></a>*Baltimore Catechism*, Q. 6.
-27. <a name="ref-27"></a>*Catechism of the Catholic Church* §1.
-28. <a name="ref-28"></a>*Catechism of the Catholic Church* §365-366.
-29. <a name="ref-29"></a>Psalm 139:13.
-30. <a name="ref-30"></a>Jeremiah 29:11.
-31. <a name="ref-31"></a>1 John 4:8.
-32. <a name="ref-32"></a>Second Vatican Council, *Lumen Gentium* §16.
-33. <a name="ref-33"></a>*Catechism of the Catholic Church* §357.
-34. <a name="ref-34"></a>Fourth Lateran Council, cf. *Catechism of the Catholic Church* §296.
-35. <a name="ref-35"></a>*Catechism of the Catholic Church* §301.
-36. <a name="ref-36"></a>Genesis 1:31.
-37. <a name="ref-37"></a>Revelation 21:4.
-38. <a name="ref-38"></a>Pope Pius XII, *Humani Generis* §36.
-39. <a name="ref-39"></a>1 John 1:9.
-40. <a name="ref-40"></a>Second Vatican Council, *Nostra Aetate* §2.
+1. <a name="ref-1"></a>Jeremiah 1:5.
+2. <a name="ref-2"></a>*Baltimore Catechism*, Q. 6.
+3. <a name="ref-3"></a>*Catechism of the Catholic Church* §1.
+4. <a name="ref-4"></a>*Catechism of the Catholic Church* §365-366.
+5. <a name="ref-5"></a>Psalm 139:13.
+6. <a name="ref-6"></a>Jeremiah 29:11.
+7. <a name="ref-7"></a>1 John 4:8.
+8. <a name="ref-8"></a>Second Vatican Council, *Lumen Gentium* §16.
+9. <a name="ref-9"></a>*Catechism of the Catholic Church* §357.
+10. <a name="ref-10"></a>Fourth Lateran Council, cf. *Catechism of the Catholic Church* §296.
+11. <a name="ref-11"></a>*Catechism of the Catholic Church* §301.
+12. <a name="ref-12"></a>Genesis 1:31.
+13. <a name="ref-13"></a>Revelation 21:4.
+14. <a name="ref-14"></a>Pope Pius XII, *Humani Generis* §36.
+15. <a name="ref-15"></a>1 John 1:9.
+16. <a name="ref-16"></a>Second Vatican Council, *Nostra Aetate* §2.

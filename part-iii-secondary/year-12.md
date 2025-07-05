@@ -33,7 +33,7 @@ parent: "Part III — Secondary Years"
 
 **Objection 3**: Moreover, I am not holy or knowledgeable enough to be a missionary. That role should be left to the experts.
 
-**On the contrary**, the Second Vatican Council teaches that "the whole Church is missionary, and the work of evangelization is a basic duty of the People of God"[¹⁶⁰](#ref-160). And Christ's final command was "Go, therefore, and make disciples of all nations"[¹⁶¹](#ref-161).
+**On the contrary**, the Second Vatican Council teaches that "the whole Church is missionary, and the work of evangelization is a basic duty of the People of God"[1](#ref-1). And Christ's final command was "Go, therefore, and make disciples of all nations"[2](#ref-2).
 
 **I answer that** by virtue of our Baptism, every single Catholic is incorporated into Christ's threefold office of Prophet, Priest, and King, and is therefore sent on mission. We must distinguish, however, between the *universal call to evangelize* and the *specific vocation to missionary work*.
 
@@ -51,19 +51,19 @@ The call is not to be weird, but to be radiant. It's to be so filled with the lo
 
 #### Question: Whether a Christian should expect a life of peace or a life of battle?
 
-**Objection 1**: It seems we should expect peace, for Christ is the "Prince of Peace"[¹⁶²](#ref-162) and He promised His followers a "peace the world cannot give"[¹⁶³](#ref-163).
+**Objection 1**: It seems we should expect peace, for Christ is the "Prince of Peace"[3](#ref-3) and He promised His followers a "peace the world cannot give"[4](#ref-4).
 
 **Objection 2**: Furthermore, if God is all-powerful, our spiritual life should be one of serene progress, not constant struggle.
 
 **Objection 3**: Moreover, the idea of a "devil" and "demons" seems like a primitive superstition that modern psychology has explained away as internal conflict or mental illness.
 
-**On the contrary**, the *Catechism* states, "This dramatic situation of 'the whole world [which] is in the power of the evil one' makes man's life a battle... a hard battle against the powers of darkness"[¹⁶⁴](#ref-164).
+**On the contrary**, the *Catechism* states, "This dramatic situation of 'the whole world [which] is in the power of the evil one' makes man's life a battle... a hard battle against the powers of darkness"[5](#ref-5).
 
 **I answer that** the Christian life is a paradox of deep peace in the midst of a relentless battle. We are engaged in **spiritual warfare**. This is not a metaphor. It is the reality of living in a fallen world, contending against three primary enemies:
 
 1.  **The World**: The system of values, priorities, and pressures contrary to the Gospel (e.g., materialism, hedonism, relativism).
 2.  **The Flesh**: Our own disordered desires and concupiscence; the inclination to sin that remains even after Baptism.
-3.  **The Devil**: A real, personal, spiritual being (Satan) and his fallen angels (demons) who hate God and humanity and seek to "prowl around the world seeking the ruin of souls"[¹⁶⁵](#ref-165).
+3.  **The Devil**: A real, personal, spiritual being (Satan) and his fallen angels (demons) who hate God and humanity and seek to "prowl around the world seeking the ruin of souls"[6](#ref-6).
 
 The peace Christ gives is not the absence of conflict, but the deep interior calm and confidence that comes from knowing the war has already been won. Christ's victory on the Cross is definitive. Our life is the "mopping up" operation, claiming the territory of our own souls and the world for the victorious King. We fight *from* victory, not *for* it. For this, God has given us spiritual armor (Ephesians 6) and powerful weapons: the Sacraments (especially the Eucharist and Confession), prayer (especially the Rosary), fasting, and the intercession of the saints.
 
@@ -81,7 +81,7 @@ The peace Christ gives is not the absence of conflict, but the deep interior cal
 
 **Objection 3**: Moreover, telling people their suffering has a purpose is a cruel way to justify their pain and avoid the duty of alleviating it.
 
-**On the contrary**, St. Paul writes, "Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in Christ's afflictions for the sake of his body, that is, the church"[¹⁶⁶](#ref-166).
+**On the contrary**, St. Paul writes, "Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in Christ's afflictions for the sake of his body, that is, the church"[7](#ref-7).
 
 **I answer that** in itself, suffering is an evil. But through the Cross of Christ, suffering can be transformed into a means of grace, love, and salvation. This concept of **redemptive suffering** is one of the most unique and profound aspects of Christianity.
 
@@ -210,7 +210,7 @@ He was captured and tortured, ordered to renounce Christ. The soles of his feet 
 "That feeling is completely normal. First, remember your primary vocation is to holiness—to become a saint. That is true no matter what career you choose or whether you get married. Your state of life (marriage, priesthood, etc.) and your career are the *ways* you will live out that primary call. Don't think of it as one single decision you have to get right. Think of it as a series of faithful 'yeses' to God. Pray, 'God, what do you want me to do *today*?' Be faithful in the small things, and He will lead you. The saints didn't have a 10-year plan; they just followed the next right step in love."
 
 **"The idea of a devil trying to attack me is terrifying. I don't want to think about it."**
-"I understand. It can be a scary thought. But here's the good news: 'the one who is in you is greater than the one who is in the world.'[¹⁶⁷](#ref-167) Spiritual warfare is real, but we are on the winning side. It's like being a soldier for a king who has already won the war. We don't have to be afraid, just prepared. Knowing the enemy's tactics is how we stay safe. The best defense is a good offense: a life of prayer, frequent sacraments, and charity. The devil is a coward; he flees from a soul that is close to Christ."
+"I understand. It can be a scary thought. But here's the good news: 'the one who is in you is greater than the one who is in the world.'[8](#ref-8) Spiritual warfare is real, but we are on the winning side. It's like being a soldier for a king who has already won the war. We don't have to be afraid, just prepared. Knowing the enemy's tactics is how we stay safe. The best defense is a good offense: a life of prayer, frequent sacraments, and charity. The devil is a coward; he flees from a soul that is close to Christ."
 
 **"My suffering just feels pointless and awful. This 'redemptive suffering' thing sounds like a nice platitude."**
 "You're right. It can sound like a platitude, and we should never say it to someone in a way that dismisses their real pain. And it's okay to feel that your suffering is pointless—that is part of the suffering itself. But the invitation of faith is to make an act of trust, even when you don't feel it. Can you, just for a moment, say, 'Jesus, I don't understand this, I hate this, but I give it to you. Use it somehow.' You don't have to feel the meaning for it to be there. Your small act of trust allows Him to unite your pain to His Cross and make it powerful, even if you never see how in this life."
@@ -281,11 +281,11 @@ You are now being sent. Go, and be not afraid. The Lord is with you always.
 
 ## References
 
-160. <a name="ref-160"></a>Second Vatican Council, *Ad Gentes* §35.
-161. <a name="ref-161"></a>Matthew 28:19.
-162. <a name="ref-162"></a>Isaiah 9:6.
-163. <a name="ref-163"></a>John 14:27.
-164. <a name="ref-164"></a>*Catechism of the Catholic Church* §409.
-165. <a name="ref-165"></a>From the Prayer to St. Michael.
-166. <a name="ref-166"></a>Colossians 1:24.
-167. <a name="ref-167"></a>1 John 4:4.
+1. <a name="ref-1"></a>Second Vatican Council, *Ad Gentes* §35.
+2. <a name="ref-2"></a>Matthew 28:19.
+3. <a name="ref-3"></a>Isaiah 9:6.
+4. <a name="ref-4"></a>John 14:27.
+5. <a name="ref-5"></a>*Catechism of the Catholic Church* §409.
+6. <a name="ref-6"></a>From the Prayer to St. Michael.
+7. <a name="ref-7"></a>Colossians 1:24.
+8. <a name="ref-8"></a>1 John 4:4.

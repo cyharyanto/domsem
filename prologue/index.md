@@ -27,11 +27,11 @@ This curriculum represents one family's attempt—offered now to all families—
 
 ## Parents as First Catechists: Your Irreplaceable Role
 
-The Second Vatican Council did not invent but rather recovered an ancient truth when it declared parents the "first and foremost educators of their children"[¹](#ref-1). This is not merely a pious sentiment but a theological reality rooted in the nature of marriage and family life.
+The Second Vatican Council did not invent but rather recovered an ancient truth when it declared parents the "first and foremost educators of their children"[1](#ref-1). This is not merely a pious sentiment but a theological reality rooted in the nature of marriage and family life.
 
 Consider what the Church teaches:
 
-"Parents have the first responsibility for the education of their children. They bear witness to this responsibility first by creating a home where tenderness, forgiveness, respect, fidelity, and disinterested service are the rule. The home is well suited for education in the virtues."[²](#ref-2)
+"Parents have the first responsibility for the education of their children. They bear witness to this responsibility first by creating a home where tenderness, forgiveness, respect, fidelity, and disinterested service are the rule. The home is well suited for education in the virtues."[2](#ref-2)
 
 But what does this mean practically in an age when many parents feel unequipped for this task? 
 

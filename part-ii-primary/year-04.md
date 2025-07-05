@@ -33,11 +33,11 @@ parent: "Part II — Primary Years"
 
 **Objection 3**: Moreover, science explains everything without needing God, so belief is just for people who don't understand science.
 
-**On the contrary**, St. Paul says "What can be known about God is plain to them, because God has shown it to them through what has been made"[⁸⁰](#ref-80). Also, people throughout history—including great scientists—have found compelling reasons to believe.
+**On the contrary**, St. Paul says "What can be known about God is plain to them, because God has shown it to them through what has been made"[1](#ref-1). Also, people throughout history—including great scientists—have found compelling reasons to believe.
 
 **I answer that** we can know God exists through reason, though we need faith to know Him personally. It's like knowing fire exists because you see smoke, even if you can't see the fire itself.
 
-Here are five clues that point to God[⁸¹](#ref-81):
+Here are five clues that point to God[2](#ref-2):
 
 1. **Motion**: Everything that moves was moved by something else. Like dominoes falling—something had to push the first one. God is the "First Mover."
 
@@ -65,9 +65,9 @@ Here are five clues that point to God[⁸¹](#ref-81):
 
 **Objection 3**: Moreover, smart people should only believe what they can figure out themselves.
 
-**On the contrary**, Jesus praised Peter's faith but also showed Thomas evidence[⁸²](#ref-82). The Church has always taught that faith and reason work together[⁸³](#ref-83).
+**On the contrary**, Jesus praised Peter's faith but also showed Thomas evidence[3](#ref-3). The Church has always taught that faith and reason work together[4](#ref-4).
 
-**I answer that** faith and reason are like two wings that lift us to truth[⁸⁴](#ref-84). Neither alone is enough:
+**I answer that** faith and reason are like two wings that lift us to truth[5](#ref-5). Neither alone is enough:
 
 - **Reason alone** is like trying to understand your parents' love using only math
 - **Faith alone** is like trying to fly with one wing
@@ -96,22 +96,22 @@ The Creed is like our family story—it tells us who we are. Let's explore why w
 **"I believe in God, the Father Almighty, Creator of heaven and earth"**
 
 Why believe in God the Father?
-- The universe had a beginning (Big Bang)—what caused it?[⁸⁵](#ref-85)
+- The universe had a beginning (Big Bang)—what caused it?[6](#ref-6)
 - The universe follows laws—who made the laws?
 - We long for perfect love—where does that longing come from?
 
 **"I believe in Jesus Christ, His only Son, our Lord"**
 
 Why believe Jesus is God?
-- He claimed to be God and backed it up with miracles[⁸⁶](#ref-86)
-- He rose from the dead—hundreds saw Him[⁸⁷](#ref-87)
+- He claimed to be God and backed it up with miracles[7](#ref-7)
+- He rose from the dead—hundreds saw Him[8](#ref-8)
 - He changed history more than any other person
 - His teachings are too wise for a mere human
 
 **"I believe in the Holy Spirit"**
 
 Why believe in the Holy Spirit?
-- Jesus promised to send Him[⁸⁸](#ref-88)
+- Jesus promised to send Him[9](#ref-9)
 - The Church's survival and growth despite persecution
 - Changed lives (sinners becoming saints)
 - Unity among believers across cultures and centuries
@@ -119,7 +119,7 @@ Why believe in the Holy Spirit?
 **"I believe in the holy Catholic Church"**
 
 Why believe in the Church?
-- Founded by Jesus on Peter[⁸⁹](#ref-89)
+- Founded by Jesus on Peter[10](#ref-10)
 - Unbroken line of popes for 2000 years
 - Produces saints in every generation
 - Guards the truth through good times and bad
@@ -238,7 +238,7 @@ Everyone asks the big questions:
 3. Share without forcing: "In my faith, we believe..."
 4. Respect differences: "That's interesting. I see it differently..."
 
-> Remember: We believe we have the fullest truth in Catholic faith, but others have pieces of truth too. The Holy Spirit works everywhere![⁹⁰](#ref-90)
+> Remember: We believe we have the fullest truth in Catholic faith, but others have pieces of truth too. The Holy Spirit works everywhere![11](#ref-11)
 
 #### 👣 Saint of the Week: St. Augustine
 
@@ -251,7 +251,7 @@ Augustine was brilliant but lost. He tried everything:
 
 His mother Monica prayed for him for 17 years! Finally, he read Scripture and everything clicked. He became one of the Church's greatest thinkers, showing that:
 - Faith completes reason
-- Our hearts are restless until they rest in God[⁹¹](#ref-91)
+- Our hearts are restless until they rest in God[12](#ref-12)
 - It's never too late to find truth
 
 **This Week's Challenge**: Like Augustine, bring your real questions to God. Don't pretend to understand what you don't. Seek truth honestly!
@@ -270,25 +270,25 @@ Your child is developing:
 #### 🧠 Theology Behind the Simplicity
 
 **The Act of Faith**
-Faith involves three elements[⁹²](#ref-92):
+Faith involves three elements[13](#ref-13):
 1. **Credere Deum** (Believe God exists)—intellectual assent
 2. **Credere Deo** (Believe God)—trust His revelation
 3. **Credere in Deum** (Believe into God)—personal commitment
 
 **Natural vs. Supernatural Revelation**
-- **Natural**: What reason can know (God exists, basic morality)[⁹³](#ref-93)
-- **Supernatural**: What only God can reveal (Trinity, Incarnation)[⁹⁴](#ref-94)
+- **Natural**: What reason can know (God exists, basic morality)[14](#ref-14)
+- **Supernatural**: What only God can reveal (Trinity, Incarnation)[15](#ref-15)
 - Both are needed for full truth
 
 **Development of Doctrine**
-The Creed developed over time[⁹⁵](#ref-95):
+The Creed developed over time[16](#ref-16):
 - Apostles' Creed (early summary)
 - Nicene Creed (325 AD, clarifying Christ's divinity)
 - Not new truths but deeper understanding
 - Like a tree growing from seed
 
 **Motives of Credibility**
-The Church offers rational grounds for faith[⁹⁶](#ref-96):
+The Church offers rational grounds for faith[17](#ref-17):
 - Miracles (especially Resurrection)
 - Prophecies fulfilled
 - Church's miraculous spread
@@ -330,7 +330,7 @@ The Church offers rational grounds for faith[⁹⁶](#ref-96):
 
 **Daily**
 - Morning: Pray one line of Creed slowly
-- Difficulties: "Lord, I believe; help my unbelief!"[⁹⁷](#ref-97)
+- Difficulties: "Lord, I believe; help my unbelief!"[18](#ref-18)
 - Evening: "Thank you for one way I saw You today"
 - Bedtime: Act of Faith prayer
 
@@ -429,21 +429,21 @@ Ask for help exploring these!
 
 ## References
 
-80. <a name="ref-80"></a>Romans 1:19-20.
-81. <a name="ref-81"></a>St. Thomas Aquinas, *Summa Theologiae* I, Q. 2, Art. 3. These are the famous "Five Ways."
-82. <a name="ref-82"></a>Matthew 16:17; John 20:27.
-83. <a name="ref-83"></a>First Vatican Council, *Dei Filius*.
-84. <a name="ref-84"></a>Pope St. John Paul II, *Fides et Ratio*, prologue.
-85. <a name="ref-85"></a>The Big Bang theory was first proposed by Belgian priest and physicist Georges Lemaître.
-86. <a name="ref-86"></a>e.g., Mark 2:5-7.
-87. <a name="ref-87"></a>1 Corinthians 15:3-8.
-88. <a name="ref-88"></a>John 14:26.
-89. <a name="ref-89"></a>Matthew 16:18.
-90. <a name="ref-90"></a>*Lumen Gentium* §16.
-91. <a name="ref-91"></a>St. Augustine, *Confessions*, Book 1, Chapter 1.
-92. <a name="ref-92"></a>St. Thomas Aquinas, *Summa Theologiae* II-II, Q. 2.
-93. <a name="ref-93"></a>*Catechism of the Catholic Church* §§31-35.
-94. <a name="ref-94"></a>*Catechism of the Catholic Church* §§50-53.
-95. <a name="ref-95"></a>John Henry Newman, *An Essay on the Development of Christian Doctrine*.
-96. <a name="ref-96"></a>*Catechism of the Catholic Church* §156.
-97. <a name="ref-97"></a>Mark 9:24.
+1. <a name="ref-1"></a>Romans 1:19-20.
+2. <a name="ref-2"></a>St. Thomas Aquinas, *Summa Theologiae* I, Q. 2, Art. 3. These are the famous "Five Ways."
+3. <a name="ref-3"></a>Matthew 16:17; John 20:27.
+4. <a name="ref-4"></a>First Vatican Council, *Dei Filius*.
+5. <a name="ref-5"></a>Pope St. John Paul II, *Fides et Ratio*, prologue.
+6. <a name="ref-6"></a>The Big Bang theory was first proposed by Belgian priest and physicist Georges Lemaître.
+7. <a name="ref-7"></a>e.g., Mark 2:5-7.
+8. <a name="ref-8"></a>1 Corinthians 15:3-8.
+9. <a name="ref-9"></a>John 14:26.
+10. <a name="ref-10"></a>Matthew 16:18.
+11. <a name="ref-11"></a>*Lumen Gentium* §16.
+12. <a name="ref-12"></a>St. Augustine, *Confessions*, Book 1, Chapter 1.
+13. <a name="ref-13"></a>St. Thomas Aquinas, *Summa Theologiae* II-II, Q. 2.
+14. <a name="ref-14"></a>*Catechism of the Catholic Church* §§31-35.
+15. <a name="ref-15"></a>*Catechism of the Catholic Church* §§50-53.
+16. <a name="ref-16"></a>John Henry Newman, *An Essay on the Development of Christian Doctrine*.
+17. <a name="ref-17"></a>*Catechism of the Catholic Church* §156.
+18. <a name="ref-18"></a>Mark 9:24.

@@ -33,7 +33,7 @@ parent: "Part III — Secondary Years"
 
 **Objection 3**: Moreover, history shows that faith (e.g., the Galileo affair) has often been an obstacle to rational inquiry and scientific progress.
 
-**On the contrary**, Pope St. John Paul II writes, "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"[¹³⁸](#ref-138). Additionally, the First Vatican Council declared that "there can never be any real discrepancy between faith and reason"[¹³⁹](#ref-139).
+**On the contrary**, Pope St. John Paul II writes, "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"[1](#ref-1). Additionally, the First Vatican Council declared that "there can never be any real discrepancy between faith and reason"[2](#ref-2).
 
 **I answer that** faith is not opposed to reason but perfects it. Reason can lead us to the doorstep of mystery, but only faith, which is a response to God's self-revelation, can lead us inside. We must distinguish between:
 
@@ -46,7 +46,7 @@ Reason can demonstrate that God exists and that it is reasonable to trust His re
 
 **Reply to Objection 2**: We accept many reasonable truths we don't fully comprehend. A physicist can use the equations of quantum mechanics without fully understanding the reality they describe. Similarly, we can reasonably assent to the mystery of the Trinity based on the credibility of the One who revealed it (Jesus Christ), even if we cannot fully comprehend it.
 
-**Reply to Objection 3**: While some Christians have wrongly opposed science, this is a failure of Christians, not of Christianity. The Church has been the greatest patron of science in history, founding the university system and supporting centuries of research. The Galileo affair was complex, but it was an exception, not the rule, in the Church's long history of fostering scientific inquiry[¹⁴⁰](#ref-140).
+**Reply to Objection 3**: While some Christians have wrongly opposed science, this is a failure of Christians, not of Christianity. The Church has been the greatest patron of science in history, founding the university system and supporting centuries of research. The Galileo affair was complex, but it was an exception, not the rule, in the Church's long history of fostering scientific inquiry[3](#ref-3).
 
 #### Question: Whether the Bible is a reliable historical account?
 
@@ -56,13 +56,13 @@ Reason can demonstrate that God exists and that it is reasonable to trust His re
 
 **Objection 3**: Moreover, other ancient cultures have creation and flood myths, suggesting the Bible is just Israel's version of a common myth-type.
 
-**On the contrary**, the Church teaches that "the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into sacred writings for the sake of salvation"[¹⁴¹](#ref-141).
+**On the contrary**, the Church teaches that "the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into sacred writings for the sake of salvation"[4](#ref-4).
 
 **I answer that** the Bible is not one book but a library, containing various genres (history, poetry, law, prophecy) that all point to one unified story: **Salvation History**. This is the true story of God's interaction with humanity, culminating in Jesus Christ.
 
 We must read the Bible according to its genre. We don't read a poem the same way we read a legal document. The Bible's truth is not always literalistic, but it is always real. Its authors, inspired by the Holy Spirit, used the literary forms of their time to convey historical events and their theological meaning.
 
-The key to its unity is **typology**: real people, places, and events in the Old Testament that foreshadow the greater realities fulfilled in Christ[¹⁴²](#ref-142).
+The key to its unity is **typology**: real people, places, and events in the Old Testament that foreshadow the greater realities fulfilled in Christ[5](#ref-5).
 -   Adam is a "type" of Christ.
 -   The Passover lamb is a "type" of the Eucharistic sacrifice.
 -   The flood is a "type" of Baptism.
@@ -88,10 +88,10 @@ This internal coherence, spanning centuries and authors, is itself evidence of a
 
 **I answer that** this is the most profound mystery we face. The Church does not offer a simple solution, but a Person: Jesus Christ, who enters into suffering with us. The Christian response to evil is not a philosophical formula but a story of divine love.
 
-We can, however, make some rational distinctions[¹⁴³](#ref-143):
+We can, however, make some rational distinctions[6](#ref-6):
 1.  **God permits, but does not will, evil**. He permits it out of respect for the freedom He gave us. A world where love is possible is also a world where rejection of love (sin) is possible. Forced love is a contradiction.
 2.  **Moral vs. Natural Evil**. Moral evil (sin) comes from the abuse of free will by angels and humans. Natural evil (disease, disasters) is a consequence of the created order being in a "state of journeying" toward its ultimate perfection, a state wounded by original sin.
-3.  **God can draw a greater good from evil**. As Joseph told his brothers who sold him into slavery, "You meant evil against me, but God meant it for good"[¹⁴⁴](#ref-144). The ultimate example is the Cross.
+3.  **God can draw a greater good from evil**. As Joseph told his brothers who sold him into slavery, "You meant evil against me, but God meant it for good"[7](#ref-7). The ultimate example is the Cross.
 
 The full answer to the problem of evil is not known in this life. But in the Cross, we see that God's response to our suffering is not to explain it from a distance, but to enter into it and redeem it from within.
 
@@ -156,7 +156,7 @@ Your biology teacher, whom you respect, states: "Evolution by natural selection 
 
 **How to think and respond?**
 
-1.  **Internal Processing**: Don't panic. The teacher is overstating the case. Evolution is a scientific theory about the *mechanism* of change; it says nothing about whether there is a guiding intelligence behind it. The Church has no issue with the theory of evolution, as long as we understand God is the primary cause and that the human soul is specially created[¹⁴⁵](#ref-145).
+1.  **Internal Processing**: Don't panic. The teacher is overstating the case. Evolution is a scientific theory about the *mechanism* of change; it says nothing about whether there is a guiding intelligence behind it. The Church has no issue with the theory of evolution, as long as we understand God is the primary cause and that the human soul is specially created[8](#ref-8).
 2.  **The Wise Question (not the aggressive argument)**: Instead of saying "You're wrong," you could ask a clarifying question later. "That's fascinating. I've read about Catholic scientists like Kenneth Miller who are leading evolutionists and see no conflict with their faith. Could the process of evolution be the *how* God chose to create?"
 3.  **Witness of Peace**: Your calm confidence in the face of an intellectual challenge is a more powerful witness than a heated argument you might lose.
 
@@ -297,11 +297,11 @@ Ask for help finding resources to dig deeper.
 
 ## References
 
-138. <a name="ref-138"></a>Pope St. John Paul II, *Fides et Ratio*, prologue.
-139. <a name="ref-139"></a>First Vatican Council, *Dei Filius*, Chapter 4, §1.
-140. <a name="ref-140"></a>See *Catechism of the Catholic Church* §2293.
-141. <a name="ref-141"></a>Second Vatican Council, *Dei Verbum* §11.
-142. <a name="ref-142"></a>*Catechism of the Catholic Church* §§128-130.
-143. <a name="ref-143"></a>See St. Augustine, *Enchiridion on Faith, Hope, and Love*, and St. Thomas Aquinas, *Summa Theologiae* I, Q. 48-49.
-144. <a name="ref-144"></a>Genesis 50:20.
-145. <a name="ref-145"></a>Pope Pius XII, *Humani Generis* §36; cf. *Catechism of the Catholic Church* §366.
+1. <a name="ref-1"></a>Pope St. John Paul II, *Fides et Ratio*, prologue.
+2. <a name="ref-2"></a>First Vatican Council, *Dei Filius*, Chapter 4, §1.
+3. <a name="ref-3"></a>See *Catechism of the Catholic Church* §2293.
+4. <a name="ref-4"></a>Second Vatican Council, *Dei Verbum* §11.
+5. <a name="ref-5"></a>*Catechism of the Catholic Church* §§128-130.
+6. <a name="ref-6"></a>See St. Augustine, *Enchiridion on Faith, Hope, and Love*, and St. Thomas Aquinas, *Summa Theologiae* I, Q. 48-49.
+7. <a name="ref-7"></a>Genesis 50:20.
+8. <a name="ref-8"></a>Pope Pius XII, *Humani Generis* §36; cf. *Catechism of the Catholic Church* §366.

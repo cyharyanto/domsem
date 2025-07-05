@@ -25,7 +25,7 @@ This chapter will guide you in creating what we might call a "sacramental ecolog
 
 **Objection 3**: Moreover, early exposure might create mere cultural Catholics rather than convinced believers.
 
-**On the contrary**, Our Lord says, "Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these"[³](#ref-3). Moreover, the Church has always baptized infants, indicating grace works even before reason awakens.
+**On the contrary**, Our Lord says, "Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these"[1](#ref-1). Moreover, the Church has always baptized infants, indicating grace works even before reason awakens.
 
 **I answer that** human formation occurs on multiple levels simultaneously. Before the intellect grasps concepts, the imagination is furnished, the memory is stocked, and the affections are ordered. Just as a child learns their native language before studying grammar, so too they can learn the "language" of faith before studying theology.
 
@@ -78,7 +78,7 @@ At this stage, your child is learning the most fundamental theological truth: re
 - **Lullabies with sacred content**: "Jesus Loves Me," "Salve Regina," traditional melodies
 - **Visual environment**: Crucifix visible from crib, icon of Mary and Child
 
-> "The infant's experience of reliable care becomes the experiential foundation for belief in Providence. Never underestimate the theology of a responded-to cry." — Adapted from Erik Erikson's insights on trust[⁴](#ref-4)
+> "The infant's experience of reliable care becomes the experiential foundation for belief in Providence. Never underestimate the theology of a responded-to cry." — Adapted from Erik Erikson's insights on trust[2](#ref-2)
 
 #### 12-24 Months: The World Has Meaning
 
@@ -165,5 +165,5 @@ Remember: You're not trying to create a tiny theologian but a child who knows in
 
 ## References
 
-3. <a name="ref-3"></a>Matthew 19:14.
-4. <a name="ref-4"></a>Erikson, Erik H. *Childhood and Society*. 1950. A foundational work in developmental psychology, its insights into the formation of trust are here viewed through a theological lens.
+1. <a name="ref-1"></a>Matthew 19:14.
+2. <a name="ref-2"></a>Erikson, Erik H. *Childhood and Society*. 1950. A foundational work in developmental psychology, its insights into the formation of trust are here viewed through a theological lens.

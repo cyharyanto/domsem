@@ -11,7 +11,7 @@ parent: "Part I — Pre-School Formation"
 
 Before your child can pronounce "theological," they can pray. Before they understand transubstantiation, they can experience the sacred through touch. This chapter explores how to introduce the youngest children to prayer as a natural conversation with God who is already present, already listening, already loving.
 
-> "Unless you become like little children, you will never enter the kingdom of heaven"[¹¹](#ref-11). Perhaps this is because children already know what we adults forget: that prayer is fundamentally about relationship, not performance.
+> "Unless you become like little children, you will never enter the kingdom of heaven"[1](#ref-1). Perhaps this is because children already know what we adults forget: that prayer is fundamentally about relationship, not performance.
 
 ### Theological Foundation: Can Babies Pray?
 
@@ -19,11 +19,11 @@ Before your child can pronounce "theological," they can pray. Before they unders
 
 **Objection 1**: It would seem that infants cannot pray, for prayer requires intention, and babies lack rational intention.
 
-**Objection 2**: Furthermore, prayer is the lifting of the mind and heart to God[¹²](#ref-12), but infants have no concept of God to whom they might lift their hearts.
+**Objection 2**: Furthermore, prayer is the lifting of the mind and heart to God[2](#ref-2), but infants have no concept of God to whom they might lift their hearts.
 
 **Objection 3**: Moreover, if babies could pray, baptism would be unnecessary, for they would already be in communion with God.
 
-**On the contrary**, the Psalmist declares, "From the lips of children and infants you have ordained praise"[¹³](#ref-13). Additionally, St. Thérèse of Lisieux speaks of her earliest memories being suffused with awareness of God's presence[¹⁴](#ref-14).
+**On the contrary**, the Psalmist declares, "From the lips of children and infants you have ordained praise"[3](#ref-3). Additionally, St. Thérèse of Lisieux speaks of her earliest memories being suffused with awareness of God's presence[4](#ref-4).
 
 **I answer that** prayer admits of degrees. In its highest form, prayer is indeed the conscious lifting of mind and heart to God. But prayer begins more fundamentally as the orientation of one's being toward the divine. 
 
@@ -176,7 +176,7 @@ The child can now engage in simple prayer practices and understand basic prayer 
 
 **Question**: Whether children must be still to pray?
 
-**I answer that** stillness is one form of prayer, not its only form. King David danced before the Lord[¹⁵](#ref-15). Children often pray best through:
+**I answer that** stillness is one form of prayer, not its only form. King David danced before the Lord[5](#ref-5). Children often pray best through:
 - Movement prayers with gestures
 - Walking while talking to God
 - Dancing to sacred music
@@ -216,14 +216,14 @@ Modern culture has made us suspicious of touch, for good protective reasons. But
 #### The Theology of Sacred Touch
 
 **In Scripture**:
-- Jesus touched children to bless them[¹⁶](#ref-16)
-- Laying on of hands conveys blessing[¹⁷](#ref-17)
-- The Father's embrace welcomes the prodigal[¹⁸](#ref-18)
+- Jesus touched children to bless them[6](#ref-6)
+- Laying on of hands conveys blessing[7](#ref-7)
+- The Father's embrace welcomes the prodigal[8](#ref-8)
 
 **In Tradition**:
 - Parents have authority to bless
 - Sacramentals work through material means
-- The body is temple of the Holy Spirit[¹⁹](#ref-19)
+- The body is temple of the Holy Spirit[9](#ref-9)
 
 #### Appropriate Sacred Touch
 
@@ -307,12 +307,12 @@ When prayer is introduced naturally and lovingly in early childhood, you'll obse
 
 ## References
 
-11. <a name="ref-11"></a>Matthew 18:3.
-12. <a name="ref-12"></a>St. John Damascene, quoted in *Catechism of the Catholic Church* §2559.
-13. <a name="ref-13"></a>Psalm 8:2.
-14. <a name="ref-14"></a>St. Thérèse of Lisieux, *Story of a Soul*.
-15. <a name="ref-15"></a>2 Samuel 6:14.
-16. <a name="ref-16"></a>Mark 10:16.
-17. <a name="ref-17"></a>Acts 6:6.
-18. <a name="ref-18"></a>Luke 15:20.
-19. <a name="ref-19"></a>1 Corinthians 6:19.
+1. <a name="ref-1"></a>Matthew 18:3.
+2. <a name="ref-2"></a>St. John Damascene, quoted in *Catechism of the Catholic Church* §2559.
+3. <a name="ref-3"></a>Psalm 8:2.
+4. <a name="ref-4"></a>St. Thérèse of Lisieux, *Story of a Soul*.
+5. <a name="ref-5"></a>2 Samuel 6:14.
+6. <a name="ref-6"></a>Mark 10:16.
+7. <a name="ref-7"></a>Acts 6:6.
+8. <a name="ref-8"></a>Luke 15:20.
+9. <a name="ref-9"></a>1 Corinthians 6:19.

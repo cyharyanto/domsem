@@ -27,13 +27,13 @@ parent: "Part II — Primary Years"
 
 #### Question: Whether the Mass is truly the same sacrifice as Calvary?
 
-**Objection 1**: It seems the Mass cannot be the same sacrifice as Calvary because Christ died once for all[¹¹⁴](#ref-114) and cannot die again.
+**Objection 1**: It seems the Mass cannot be the same sacrifice as Calvary because Christ died once for all[1](#ref-1) and cannot die again.
 
 **Objection 2**: Furthermore, a sacrifice requires suffering and death, but Christ in heaven can no longer suffer or die.
 
 **Objection 3**: Moreover, if Calvary was sufficient, repeating it seems to imply it wasn't enough.
 
-**On the contrary**, at the Last Supper, Christ said "Do this in memory of me"[¹¹⁵](#ref-115), and the Church has always understood this as making present His one sacrifice.
+**On the contrary**, at the Last Supper, Christ said "Do this in memory of me"[2](#ref-2), and the Church has always understood this as making present His one sacrifice.
 
 **I answer that** the Mass is not a new sacrifice but the same sacrifice of Calvary made present in an unbloody manner. This is one of the deepest mysteries of our faith!
 
@@ -44,7 +44,7 @@ Here's how it works:
 - At Mass, this eternal act breaks into our time
 - The priest acts **in persona Christi** (in the person of Christ)
 - The same Christ who offered Himself then offers Himself now
-- The difference is only in the manner: bloody then, unbloody now[¹¹⁶](#ref-116)
+- The difference is only in the manner: bloody then, unbloody now[3](#ref-3)
 
 It's like watching a live event versus watching it on TV:
 - Same event, different mode of presence
@@ -95,7 +95,7 @@ Every gesture has meaning:
 During the Eucharistic Prayer, heaven and earth meet:
 
 **1. Preface and Sanctus**
-We join the angels singing "Holy, Holy, Holy"[¹¹⁷](#ref-117)—we're literally in God's throne room!
+We join the angels singing "Holy, Holy, Holy"[4](#ref-4)—we're literally in God's throne room!
 
 **2. Epiclesis (Calling Down the Spirit)**
 The priest asks the Father to send the Holy Spirit to transform the gifts
@@ -264,7 +264,7 @@ People traveled across Europe to attend his Masses because:
 - His homilies were simple but pierced hearts
 - Miracles happened regularly
 
-**His Secret**: "If we really understood the Mass, we would die of joy!"[¹¹⁸](#ref-118)
+**His Secret**: "If we really understood the Mass, we would die of joy!"[5](#ref-5)
 
 **This Week**: At Mass, try to see with Fr. Vianney's eyes of faith.
 
@@ -281,7 +281,7 @@ Your child is developing:
 
 #### 🧠 Theology Behind the Simplicity
 
-**Sacrifice: Multiple Dimensions**[¹¹⁹](#ref-119)
+**Sacrifice: Multiple Dimensions**[6](#ref-6)
 1. **Latreutic**: Adoration (recognizing God's sovereignty)
 2. **Eucharistic**: Thanksgiving (for all gifts)
 3. **Propitiatory**: Atonement (repairing sin's damage)
@@ -294,13 +294,13 @@ All four present in every Mass!
 - **Ex opere operantis**: Our disposition affects fruits received
 - Both matter: Valid Mass + open heart = maximum grace
 
-**Liturgical Participation Levels**[¹²⁰](#ref-120)
+**Liturgical Participation Levels**[7](#ref-7)
 1. **External**: Responses, gestures, singing
 2. **Internal**: Attention, intention, devotion
 3. **Sacramental**: Receiving Communion worthily
 4. **Existential**: Offering one's life with Christ
 
-**The Priest's Three Munus (Offices)**[¹²¹](#ref-121)
+**The Priest's Three Munus (Offices)**[8](#ref-8)
 1. **Prophet**: Proclaiming the Word
 2. **Priest**: Offering sacrifice
 3. **King**: Leading the community
@@ -460,11 +460,11 @@ Ask for resources!
 
 ## References
 
-114. <a name="ref-114"></a>Hebrews 10:10.
-115. <a name="ref-115"></a>Luke 22:19.
-116. <a name="ref-116"></a>Council of Trent; *Catechism of the Catholic Church* §1367.
-117. <a name="ref-117"></a>Isaiah 6:3; Revelation 4:8.
-118. <a name="ref-118"></a>St. John Vianney, quoted in various hagiographies.
-119. <a name="ref-119"></a>See *Catechism of the Catholic Church* §1359-1361.
-120. <a name="ref-120"></a>Second Vatican Council, *Sacrosanctum Concilium* §14.
-121. <a name="ref-121"></a>Second Vatican Council, *Lumen Gentium* §21.
+1. <a name="ref-1"></a>Hebrews 10:10.
+2. <a name="ref-2"></a>Luke 22:19.
+3. <a name="ref-3"></a>Council of Trent; *Catechism of the Catholic Church* §1367.
+4. <a name="ref-4"></a>Isaiah 6:3; Revelation 4:8.
+5. <a name="ref-5"></a>St. John Vianney, quoted in various hagiographies.
+6. <a name="ref-6"></a>See *Catechism of the Catholic Church* §1359-1361.
+7. <a name="ref-7"></a>Second Vatican Council, *Sacrosanctum Concilium* §14.
+8. <a name="ref-8"></a>Second Vatican Council, *Lumen Gentium* §21.
