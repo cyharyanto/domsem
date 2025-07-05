@@ -1,0 +1,33 @@
+title: "Domestic Seminary"
+description: "A Spiral Catechetical Curriculum for the 21st Century Catholic Family"
+baseurl: "/domsem"
+url: "https://cyharyanto.github.io"
+
+# Jekyll settings
+markdown: kramdown
+permalink: pretty
+highlighter: rouge
+
+# Site settings
+author: "Christoforus Yoga Haryanto"
+license: "CC BY-NC 4.0"
+version: "0.1"
+
+# Collections
+collections:
+  parts:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "parts"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post" 

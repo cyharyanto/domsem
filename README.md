@@ -1,7 +1,7 @@
 # Domestic Seminary: A 21st Century Catholic Catechetical Curriculum
 
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-.1%20(Draft)-orange.svg)
+![Version](https://img.shields.io/badge/Version-0.1%20(Draft)-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Living%20Document-blue.svg)
 
 **A Resource for Parents, the "First Heralds" of the Faith for their Children**
@@ -104,10 +104,42 @@ This first public release is a work in progress. While every effort has been mad
 
 ## Accessing the Curriculum
 
-The entire curriculum is contained in a single Markdown file for easy reading and searching.
+The curriculum is now available as a structured website for easy navigation:
 
--   ➡️ **Read the full curriculum here: [Domestic Seminary: A 21st Century Catholic Catechetical Curriculum
-](domsem.md)**
+-   🌐 **Website**: [https://cyharyanto.github.io/domsem](https://cyharyanto.github.io/domsem)
+-   📖 **Original Document**: [domsem.md](domsem.md) (single file version)
+
+## Structure
+
+The curriculum is organized into four main parts:
+
+### Part I: Pre-School Formation (Birth to Age 5)
+- **Chapter 1**: The World is Holy - Beginning Life in God
+- **Chapter 2**: Domestic Liturgy - Creating a Home Filled with Holy Signs
+- **Chapter 3**: First Prayers and Sacred Touch
+- **Chapter 4**: Preparing for School in a Secular World
+
+### Part II: Primary Years (Years 1-6)
+- **Year 1**: Who Made Me, and Why?
+- **Year 2**: Who is Jesus?
+- **Year 3**: What Are Sacraments?
+- **Year 4**: Why Do We Believe?
+- **Year 5**: What is the Church?
+- **Year 6**: What Is the Mass?
+
+### Part III: Secondary Years (Years 7-12)
+- **Year 7**: How Do I Live a Good Life?
+- **Year 8**: Who Am I, Really?
+- **Year 9**: Is Faith Rational?
+- **Year 10**: Can Truth Be Known?
+- **Year 11**: What Is Justice?
+- **Year 12**: What Is My Mission?
+
+### Part IV: Post-Year 12: Adulthood in the Faith
+- **Chapter 17**: When They Leave Home - Trust, Pray, Accompany
+- **Chapter 18**: Supporting Vocations - Religious Life, Marriage, and Mission
+- **Chapter 19**: The Faith Grows With You - Living Catholic Adulthood
+- **Chapter 20**: A Catechism for Your Grandchildren
 
 ## How You Can Contribute
 
@@ -121,6 +153,20 @@ This project is intended to be "collectively carried." We invite you to help us 
 
 This curriculum was developed by human catechists in a dialectical partnership with a Large Language Model (LLM). The methodology was designed to leverage the generative power of AI while ensuring strict doctrinal alignment through a human-led, source-first process. The LLM acts as a powerful catechetical assistant, always subordinate to the Magisterium and the guiding hand of a human catechist. Any errors that remain are human errors in this process.
 
+## Technical Details
+
+This site is built with:
+- **Jekyll**: Static site generator
+- **GitHub Pages**: Hosting platform
+- **Markdown**: Content format
+- **CSS**: Custom styling
+
 ## License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http.creativecommons.org/licenses/by-nc/4.0/).
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
+**Author**: Christoforus Yoga Haryanto, 2025
+
+---
+
+*"Parents have the first responsibility for the education of their children in the faith, prayer, and all the virtues."* — Catechism of the Catholic Church §2252
